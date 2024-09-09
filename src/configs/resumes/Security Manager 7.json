@@ -1,0 +1,50 @@
+{
+  "fileName": "Security Manager 7.pdf",
+  "raw": "Ali Kanan  Personal Information  Gender Male Age 30 Nationality Pakistani Location Graz, Austria  Education  Diploma in Information Technology Technical Institute, Lahore, Pakistan  Master’s degree in Computer Science (on-going) Graz University of Technology, Graz  Certifications  Certified Ethical Hacker (CEH)  Experience  Junior IT Security Manager Lava Corp  Conduct risk assessments and provided recommendations for cybersecurity improvements. September 2023 – Present (5 months) Graz, Austria  IT Technician Great Tech Solutions  Provided technical support and troubleshooting for IT systems and networks.  Assisted in the installation and configuration of software and hardware. January 2020 – September 2023 (3 years) Lahore, Pakistan  Skills   Basic understanding of ISO 27001 and GDPR principles  Strong technical aptitude and problem-solving skills  Enthusiastic and motivated to learn  Good communication skills",
+  "content": {
+    "name": "Ali Kanan",
+    "role": "Security Manager",
+    "status": "active",
+    "personal": {
+      "Gender": "Male",
+      "Age": "30",
+      "Nationality": "Pakistani",
+      "Location": "Graz, Austria"
+    },
+    "education": [
+      "Diploma in Information Technology",
+      "Technical Institute, Lahore, Pakistan",
+      "Master’s degree in Computer Science (on-going)",
+      "Graz University of Technology, Graz",
+      "Certifications:",
+      "Certified Ethical Hacker (CEH)"
+    ],
+    "experience": [
+      {
+        "position": "Junior IT Security Manager",
+        "company": "Lava Corp",
+        "details": [
+          "Conduct risk assessments and provided recommendations for cybersecurity improvements."
+        ],
+        "period": "September 2023 – Present (5 months)",
+        "location": "Graz, Austria"
+      },
+      {
+        "position": "IT Technician",
+        "company": "Great Tech Solutions",
+        "details": [
+          "Provided technical support and troubleshooting for IT systems and networks.",
+          "Assisted in the installation and configuration of software and hardware."
+        ],
+        "period": "January 2020 – September 2023 (3 years)",
+        "location": "Lahore, Pakistan"
+      }
+    ],
+    "skills": [
+      "Basic understanding of ISO 27001 and GDPR principles",
+      "Strong technical aptitude and problem-solving skills",
+      "Enthusiastic and motivated to learn",
+      "Good communication skills"
+    ]
+  }
+}

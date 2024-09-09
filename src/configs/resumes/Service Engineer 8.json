@@ -1,0 +1,45 @@
+{
+  "fileName": "Service Engineer 8.pdf",
+  "raw": "Aliya Khan  Personal Information  Gender Female Age 32 Nationality Pakistani Location Graz, Austria  Summary Experienced service engineer with a background in electrical engineering. Graduated from a technical college with a specialization in instrumentation. Skilled in maintenance, calibration, and troubleshooting of measuring instruments. Strong problem-solving skills with a customer-oriented approach.  Education  Diploma in Instrumentation Engineering Graz Technical College Austria  Experience  Service Engineer ABC Instruments GmbH  Conducted service calls and maintenance of analytical measuring systems.  Prepared service reports and documentation.  Assisted in troubleshooting. January 2020 – Present (4 years) Klagenfurt, Austria  Technician XYZ Solutions  Provided technical support for electronic equipment.  Assisted in troubleshooting and repairs.  On-duty calls around Pakistan. September 2015 – December 2019 (4 years) Lahore, Pakistan",
+  "content": {
+    "name": "Aliya Khan",
+    "role": "Service Engineer",
+    "status": "active",
+    "personal": {
+      "Gender": "Female",
+      "Age": "32",
+      "Nationality": "Pakistani",
+      "Location": "Graz, Austria"
+    },
+    "education": [
+      "Diploma in Instrumentation Engineering",
+      "Graz Technical College",
+      "Austria"
+    ],
+    "experience": [
+      {
+        "position": "Service Engineer",
+        "company": "ABC Instruments GmbH",
+        "details": [
+          "Conducted service calls and maintenance of analytical measuring systems.",
+          "Prepared service reports and documentation.",
+          "Assisted in troubleshooting."
+        ],
+        "period": "January 2020 – Present (4 years)",
+        "location": "Klagenfurt, Austria"
+      },
+      {
+        "position": "Technician",
+        "company": "XYZ Solutions",
+        "details": [
+          "Provided technical support for electronic equipment.",
+          "Assisted in troubleshooting and repairs.",
+          "On-duty calls around Pakistan."
+        ],
+        "period": "September 2015 – December 2019 (4 years)",
+        "location": "Lahore, Pakistan"
+      }
+    ],
+    "skills": []
+  }
+}

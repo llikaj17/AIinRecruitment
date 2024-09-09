@@ -1,0 +1,36 @@
+{
+  "fileName": "Service Engineer 2.pdf",
+  "raw": "Ahmed El-Masri   Personal Information  Gender Male Age 35 Nationality Egyptian Location Innsbruck, Austria  Summary Experienced service engineer specializing in analytical measuring systems. Graduated from a technical apprenticeship program in mechatronic engineering. Skilled in maintenance, calibration, and troubleshooting. Highly flexible with a customer-oriented approach.  Education  Apprenticeship in Mechatronic Engineering Technical School Innsbruck, Austria  Experience  Maintenance Technician ABC Solutions GmbH  Conducted maintenance and calibration of analytical measuring systems.  Assisted in troubleshooting activities. March 2018 – Present (5 years) Innsbruck, Austria  Languages  English Fluent German Intermediate",
+  "content": {
+    "name": "Ahmed El-Masri",
+    "role": "Service Engineer",
+    "status": "active",
+    "personal": {
+      "Gender": "Male",
+      "Age": "35",
+      "Nationality": "Egyptian",
+      "Location": "Innsbruck, Austria"
+    },
+    "education": [
+      "Apprenticeship in Mechatronic Engineering",
+      "Technical School Innsbruck, Austria"
+    ],
+    "experience": [
+      {
+        "position": "Maintenance Technician",
+        "company": "ABC Solutions GmbH",
+        "details": [
+          "Conducted maintenance and calibration of analytical measuring systems.",
+          "Assisted in troubleshooting activities."
+        ],
+        "period": "March 2018 – Present (5 years)",
+        "location": "Innsbruck, Austria"
+      },
+      {
+        "position": "Languages:",
+        "company": "German: Intermediate"
+      }
+    ],
+    "skills": []
+  }
+}

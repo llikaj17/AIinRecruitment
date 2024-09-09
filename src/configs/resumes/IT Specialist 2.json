@@ -1,0 +1,47 @@
+{
+  "fileName": "IT Specialist 2.pdf",
+  "raw": "Viktoria Schneider  Personal Information  Gender Female Age 30 Nationality German Location Munich, Germany  Education  Master's degree in Information Technology Technical University of Munich, Germany  Experience  Systems Administrator Tech Solutions GmbH  Managed and maintained IT infrastructure, including servers, networks, and storage systems.  Implemented and optimized IT security measures to protect company data and systems.  Provided technical support to end-users and resolved IT-related issues. January 2020 – Present (4 years) Munich, Germany  IT Technician Tech Solutions GmbH  Provided technical support to end-users and resolved IT-related issues. March 2018 – December 2019 (2 years) Munich, Germany  Skills   Strong background in IT infrastructure management  Experience with scripting languages like Python and PowerShell  Analytical thinking and problem-solving skills  Excellent communication and teamwork abilities",
+  "content": {
+    "name": "Viktoria Schneider",
+    "role": "IT Infrastructure Specialist",
+    "status": "active",
+    "personal": {
+      "Gender": "Female",
+      "Age": "30",
+      "Nationality": "German",
+      "Location": "Munich, Germany"
+    },
+    "education": [
+      "Master's degree in Information Technology",
+      "Technical University of Munich, Germany"
+    ],
+    "experience": [
+      {
+        "position": "Systems Administrator",
+        "company": "Tech Solutions GmbH",
+        "details": [
+          "Managed and maintained IT infrastructure, including servers, networks, and storage systems.",
+          "Implemented and optimized IT security measures to protect company data and systems.",
+          "Provided technical support to end-users and resolved IT-related issues."
+        ],
+        "period": "January 2020 – Present (4 years)",
+        "location": "Munich, Germany"
+      },
+      {
+        "position": "IT Technician",
+        "company": "Tech Solutions GmbH",
+        "details": [
+          "Provided technical support to end-users and resolved IT-related issues."
+        ],
+        "period": "March 2018 – December 2019 (2 years)",
+        "location": "Munich, Germany"
+      }
+    ],
+    "skills": [
+      "Strong background in IT infrastructure management",
+      "Experience with scripting languages like Python and PowerShell",
+      "Analytical thinking and problem-solving skills",
+      "Excellent communication and teamwork abilities"
+    ]
+  }
+}

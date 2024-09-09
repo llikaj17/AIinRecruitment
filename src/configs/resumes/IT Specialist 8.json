@@ -1,0 +1,49 @@
+{
+  "fileName": "IT Specialist 8.pdf",
+  "raw": "Albina Gashi  Personal Information  Gender Female Age 23 Nationality Albanian Location Graz, Austria  Education  Bachelor's degree in Computer Science (in progress) University of Graz, Austria  Experience  IT Intern SuperTech Solutions GmbH  Assisted in the setup and administration of Jira and Confluence systems.  Provided technical support to end-users and resolved IT-related issues.  Contributed to the development of technical implementation concepts for IT service management. January 2023 – January 2024 (1 year) Graz, Austria  Technical Support Assistant ABC IT Services, Graz (6 months)  Provided first-line technical support to clients via phone and email.  Assisted in troubleshooting hardware and software issues and escalated complex cases to  senior technicians. June 2022 – December 2022 (6 months) Graz, Austria  Skills   Familiarity with Jira and Confluence administration  Experience in providing technical support and troubleshooting  Strong problem-solving and analytical skills  Excellent communication and interpersonal abilities",
+  "content": {
+    "name": "Albina Gashi",
+    "role": "IT Infrastructure Specialist",
+    "status": "active",
+    "personal": {
+      "Gender": "Female",
+      "Age": "23",
+      "Nationality": "Albanian",
+      "Location": "Graz, Austria"
+    },
+    "education": [
+      "Bachelor's degree in Computer Science (in progress)",
+      "University of Graz, Austria"
+    ],
+    "experience": [
+      {
+        "position": "IT Intern",
+        "company": "SuperTech Solutions GmbH",
+        "details": [
+          "Assisted in the setup and administration of Jira and Confluence systems.",
+          "Provided technical support to end-users and resolved IT-related issues.",
+          "Contributed to the development of technical implementation concepts for IT service management."
+        ],
+        "period": "January 2023 – January 2024 (1 year)",
+        "location": "Graz, Austria"
+      },
+      {
+        "position": "Technical Support Assistant",
+        "company": "ABC IT Services, Graz (6 months)",
+        "details": [
+          "Provided first-line technical support to clients via phone and email.",
+          "Assisted in troubleshooting hardware and software issues and escalated complex cases to",
+          "senior technicians."
+        ],
+        "period": "June 2022 – December 2022 (6 months)",
+        "location": "Graz, Austria"
+      }
+    ],
+    "skills": [
+      "Familiarity with Jira and Confluence administration",
+      "Experience in providing technical support and troubleshooting",
+      "Strong problem-solving and analytical skills",
+      "Excellent communication and interpersonal abilities"
+    ]
+  }
+}

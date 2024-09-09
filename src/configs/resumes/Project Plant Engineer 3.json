@@ -1,0 +1,55 @@
+{
+  "fileName": "Project Plant Engineer 3.pdf",
+  "raw": "Lorena Xhelaj  Personal Information  Gender Female Age 29 Nationality Albanian Location Munich, Germany  Summary Goal-oriented project engineer with a focus on plant engineering. Graduated with a degree in environmental technology. Experienced in planning and design of technically complex projects. Excellent organizational and communication skills. Fluent in German, English, and Bulgarian.  Education  Bachelor's degree in Environmental Technology Salzburg University of Applied Sciences Austria  Experience  Project Engineer XYZ Energy Solutions  Prepared technical concepts and coordinated project activities.  Managed communication with stakeholders and suppliers. January 2020 – Present (4 years) Munich, Germany  Internship ABC Engineering Firm  Assisted in planning and design of environmental projects. January 2019 – December 2019 (1 year) Salzburg, Austria  Internship An&Ra Shpk  Assisted in planning and managing office work. June 2017 – December 2017 (6 months) Albania  Languages English Fluent German Fluent Albanian Native",
+  "content": {
+    "name": "Lorena Xhelaj",
+    "role": "Project and Plant Engineer",
+    "status": "active",
+    "personal": {
+      "Gender": "Female",
+      "Age": "29",
+      "Nationality": "Albanian",
+      "Location": "Munich, Germany"
+    },
+    "education": [
+      "Bachelor's degree in Environmental Technology",
+      "Salzburg University of Applied Sciences",
+      "Austria"
+    ],
+    "experience": [
+      {
+        "position": "Project Engineer",
+        "company": "XYZ Energy Solutions",
+        "details": [
+          "Prepared technical concepts and coordinated project activities.",
+          "Managed communication with stakeholders and suppliers."
+        ],
+        "period": "January 2020 – Present (4 years)",
+        "location": "Munich, Germany"
+      },
+      {
+        "position": "Internship",
+        "company": "ABC Engineering Firm",
+        "details": [
+          "Assisted in planning and design of environmental projects."
+        ],
+        "period": "January 2019 – December 2019 (1 year)",
+        "location": "Salzburg, Austria"
+      },
+      {
+        "position": "Internship",
+        "company": "An&Ra Shpk",
+        "details": [
+          "Assisted in planning and managing office work."
+        ],
+        "period": "June 2017 – December 2017 (6 months)",
+        "location": "Albania"
+      },
+      {
+        "position": "Languages:",
+        "company": "Albanian: Native"
+      }
+    ],
+    "skills": []
+  }
+}

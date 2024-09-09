@@ -1,0 +1,48 @@
+{
+  "fileName": "Electrical Engineer 5.pdf",
+  "raw": "Sonia Ruppi  Personal Information  Gender Female Age 45 Nationality Indian Location Graz, Austria  Summary Accomplished electrical engineer with over 15 years of experience in conceptualizing and designing complex electrical systems. Proven track record in project management and technical sales. Holds a Ph.D. in Electrical Engineering from a renowned university. Strong leadership and communication skills.  Education  Ph.D. in Electrical Engineering Graz University of Technology, Austria  Experience  Senior Electrical Engineer Magna International  Led the conceptualization and design of electrical systems for various industrial applications, ensuring compliance with technical standards.  Managed project teams and coordinated project activities to ensure timely delivery. March 2020 – Present (4 years) Graz, Austria  Electrical Engineer IOD Solutions and CO January 2013 – January 2020 (7 years) Mumbai, India  Technical Sales Manager City Automation   Managed key client accounts and developed strategic sales plans to drive business growth.  Provided technical expertise during customer interactions and negotiated contracts for electrical systems integration. February 2008 – December 2012 (4 years) Mumbai, India     Languages  English Fluent German Intermediate Hindi Native  Certifications  Project Management Professional (PMP) Certified Electrical Engineer (CEE)",
+  "content": {
+    "name": "Sonia Ruppi",
+    "role": "Electrical Engineer",
+    "status": "active",
+    "personal": {
+      "Gender": "Female",
+      "Age": "45",
+      "Nationality": "Indian",
+      "Location": "Graz, Austria"
+    },
+    "education": [
+      "Ph.D. in Electrical Engineering",
+      "Graz University of Technology, Austria"
+    ],
+    "experience": [
+      {
+        "position": "Senior Electrical Engineer",
+        "company": "Magna International",
+        "details": [
+          "Led the conceptualization and design of electrical systems for various industrial applications, ensuring",
+          "compliance with technical standards.",
+          "Managed project teams and coordinated project activities to ensure timely delivery."
+        ],
+        "period": "March 2020 – Present (4 years)",
+        "location": "Graz, Austria"
+      },
+      {
+        "position": "Electrical Engineer",
+        "company": "City Automation",
+        "details": [
+          "Managed key client accounts and developed strategic sales plans to drive business growth.",
+          "Provided technical expertise during customer interactions and negotiated contracts for electrical",
+          "systems integration."
+        ],
+        "period": "February 2008 – December 2012 (4 years)",
+        "location": "Mumbai, India"
+      },
+      {
+        "position": "Languages:",
+        "company": "Certified Electrical Engineer (CEE)"
+      }
+    ],
+    "skills": []
+  }
+}

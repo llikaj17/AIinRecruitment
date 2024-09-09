@@ -1,0 +1,35 @@
+{
+  "fileName": "Project Plant Engineer 4.pdf",
+  "raw": "Dritak Nova  Personal Information  Gender Male Age 25 Nationality Slovak Location Slovakia  Summary Experienced project engineer specializing in plant engineering. Graduated with a degree in mechanical engineering. Skilled in planning and design of complex projects. Strong problem-solving abilities with attention to detail. Fluent in German, English.  Education  Bachelor's degree in Mechanical Engineering Slovakia  Experience  Technician  DEF Construction Company  Assisted in technical planning and design of building projects. March 2021 – Present (3 years) Bratislava, Slovakia  Languages  English Fluent German Fluent Slovak Native",
+  "content": {
+    "name": "Dritak Nova",
+    "role": "Project and Plant Engineer",
+    "status": "active",
+    "personal": {
+      "Gender": "Male",
+      "Age": "25",
+      "Nationality": "Slovak",
+      "Location": "Slovakia"
+    },
+    "education": [
+      "Bachelor's degree in Mechanical Engineering",
+      "Slovakia"
+    ],
+    "experience": [
+      {
+        "position": "Technician",
+        "company": "DEF Construction Company",
+        "details": [
+          "Assisted in technical planning and design of building projects."
+        ],
+        "period": "March 2021 – Present (3 years)",
+        "location": "Bratislava, Slovakia"
+      },
+      {
+        "position": "Languages:",
+        "company": "Slovak: Native"
+      }
+    ],
+    "skills": []
+  }
+}

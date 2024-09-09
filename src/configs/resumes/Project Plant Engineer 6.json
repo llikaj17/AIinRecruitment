@@ -1,0 +1,46 @@
+{
+  "fileName": "Project Plant Engineer 6.pdf",
+  "raw": "Maciej Dotaski  Personal Information  Gender Male Age 31 Nationality Polish Location Salzburg, Austria  Summary Motivated project engineer with a background in chemical engineering. Graduated with a degree in chemical engineering. Skilled in planning and design of projects. Strong analytical skills. Fluent in English and Polish.  Education  Bachelor's degree in Chemical Engineering Salzburg University of Technology Austria  Experience  Project Engineer ABC Engineering Solutions  Developed technical concepts and coordinated project activities.  Assisted in communication with clients and suppliers. February 2020 – Present (4 years) Salzburg, Austria  Internship XYZ Chemical Company  Assisted in chemical process design and analysis. January 2017 – December 2019 (3 years) Warsaw, Poland  Languages  English Fluent Polish Native",
+  "content": {
+    "name": "Maciej Dotaski",
+    "role": "Project and Plant Engineer",
+    "status": "active",
+    "personal": {
+      "Gender": "Male",
+      "Age": "31",
+      "Nationality": "Polish",
+      "Location": "Salzburg, Austria"
+    },
+    "education": [
+      "Bachelor's degree in Chemical Engineering",
+      "Salzburg University of Technology",
+      "Austria"
+    ],
+    "experience": [
+      {
+        "position": "Project Engineer",
+        "company": "ABC Engineering Solutions",
+        "details": [
+          "Developed technical concepts and coordinated project activities.",
+          "Assisted in communication with clients and suppliers."
+        ],
+        "period": "February 2020 – Present (4 years)",
+        "location": "Salzburg, Austria"
+      },
+      {
+        "position": "Internship",
+        "company": "XYZ Chemical Company",
+        "details": [
+          "Assisted in chemical process design and analysis."
+        ],
+        "period": "January 2017 – December 2019 (3 years)",
+        "location": "Warsaw, Poland"
+      },
+      {
+        "position": "Languages:",
+        "company": "Polish: Native"
+      }
+    ],
+    "skills": []
+  }
+}

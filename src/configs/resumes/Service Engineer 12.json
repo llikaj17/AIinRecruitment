@@ -1,0 +1,37 @@
+{
+  "fileName": "Service Engineer 12.pdf",
+  "raw": "Jakub Nowak  Personal Information  Gender Male Age 30 Nationality Polish Location Linz, Austria  Summary Seasoned manufacturing engineer with experience in production management, now transitioning into service engineering. Graduated with a degree in industrial engineering. Skilled in process optimization and quality management. Seeking to apply technical skills to support customers in maintaining analytical measuring systems.  Education  Bachelor's degree in Industrial Engineering Linz University of Applied Sciences Austria  Experience  Production Manager DEF Manufacturing Company  Managed production processes and implemented quality control measures.  Oversaw production schedules and resource allocation. June 2017 – January 2024 (7 years) Linz, Austria  Languages  English Fluent German Fluent Polish Native",
+  "content": {
+    "name": "Jakub Nowak",
+    "role": "Service Engineer",
+    "status": "active",
+    "personal": {
+      "Gender": "Male",
+      "Age": "30",
+      "Nationality": "Polish",
+      "Location": "Linz, Austria"
+    },
+    "education": [
+      "Bachelor's degree in Industrial Engineering",
+      "Linz University of Applied Sciences",
+      "Austria"
+    ],
+    "experience": [
+      {
+        "position": "Production Manager",
+        "company": "DEF Manufacturing Company",
+        "details": [
+          "Managed production processes and implemented quality control measures.",
+          "Oversaw production schedules and resource allocation."
+        ],
+        "period": "June 2017 – January 2024 (7 years)",
+        "location": "Linz, Austria"
+      },
+      {
+        "position": "Languages:",
+        "company": "Polish: Native"
+      }
+    ],
+    "skills": []
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "fileName": "Sales Manager 8.pdf",
+  "raw": "Maximilian Weber  Personal Information  Gender Male Age 25 Nationality Austrian Location Graz, Austria  Education  High School Diploma Graz, Austria  Experience  Retail Sales Associate Tech Retail Store  Assisted customers with product inquiries and purchases in a retail environment.  Handled cash transactions and maintained store cleanliness and organization. March 2022 – Present (2 years) Graz, Austria  Intern ABC Marketing Agency  Provided support to the marketing team with various administrative tasks.  Assisted in the coordination of marketing campaigns and events. June 2019 – January 2020 (6 months) Graz, Austria  Skills   Strong work ethic and willingness to learn.  Effective communication and interpersonal skills.  Fluent in German",
+  "content": {
+    "name": "Maximilian Weber",
+    "role": "Sales Manager",
+    "status": "active",
+    "personal": {
+      "Gender": "Male",
+      "Age": "25",
+      "Nationality": "Austrian",
+      "Location": "Graz, Austria"
+    },
+    "education": [
+      "High School Diploma",
+      "Graz, Austria"
+    ],
+    "experience": [
+      {
+        "position": "Retail Sales Associate",
+        "company": "Tech Retail Store",
+        "details": [
+          "Assisted customers with product inquiries and purchases in a retail environment.",
+          "Handled cash transactions and maintained store cleanliness and organization."
+        ],
+        "period": "March 2022 – Present (2 years)",
+        "location": "Graz, Austria"
+      },
+      {
+        "position": "Intern",
+        "company": "ABC Marketing Agency",
+        "details": [
+          "Provided support to the marketing team with various administrative tasks.",
+          "Assisted in the coordination of marketing campaigns and events."
+        ],
+        "period": "June 2019 – January 2020 (6 months)",
+        "location": "Graz, Austria"
+      }
+    ],
+    "skills": [
+      "Strong work ethic and willingness to learn.",
+      "Effective communication and interpersonal skills.",
+      "Fluent in German"
+    ]
+  }
+}

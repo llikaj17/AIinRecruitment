@@ -1,0 +1,37 @@
+{
+  "fileName": "SAP Consultant 9.pdf",
+  "raw": "Lisa Liegl  Personal Information  Gender Female Age 34 Nationality Austrian Location Graz, Austria  Summary Seasoned logistics manager with a recent transition into IT consulting. Skilled in optimizing processes and managing complex projects. Completed a certification course in SAP SD module. Strong analytical and problem-solving skills.  Education  Bachelor's degree in Logistics Management University of Graz, Austria  Experience  Logistics Manager Riedl Logistics Company  Oversaw warehouse operations and transportation logistics, ensuring efficient supply chain management.  Implemented process improvements and cost-saving initiatives. January 2016 – Present (8 years) Graz, Austria  SAP SD Consultant Certification Course Graz (6 months)  Languages  English Fluent German Fluent",
+  "content": {
+    "name": "Lisa Liegl",
+    "role": "SAP Inhouse Consultant",
+    "status": "active",
+    "personal": {
+      "Gender": "Female",
+      "Age": "34",
+      "Nationality": "Austrian",
+      "Location": "Graz, Austria"
+    },
+    "education": [
+      "Bachelor's degree in Logistics Management",
+      "University of Graz, Austria"
+    ],
+    "experience": [
+      {
+        "position": "Logistics Manager",
+        "company": "Riedl Logistics Company",
+        "details": [
+          "Oversaw warehouse operations and transportation logistics, ensuring efficient supply chain",
+          "management.",
+          "Implemented process improvements and cost-saving initiatives."
+        ],
+        "period": "January 2016 – Present (8 years)",
+        "location": "Graz, Austria"
+      },
+      {
+        "position": "SAP SD Consultant Certification Course",
+        "company": "German: Fluent"
+      }
+    ],
+    "skills": []
+  }
+}

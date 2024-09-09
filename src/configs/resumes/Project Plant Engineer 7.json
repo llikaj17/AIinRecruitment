@@ -1,0 +1,46 @@
+{
+  "fileName": "Project Plant Engineer 7.pdf",
+  "raw": "FANG LI Personal Information  Gender Female Age 36 Nationality Chinese Location Vienna, Austria  Summary Experienced project engineer with a background in electrical engineering. Graduated with a degree in electrical engineering. Skilled in planning and design of technical projects. Strong problem-solving abilities. Fluent in English and Chinese.  Education  Bachelor's degree in Electrical Engineering Vienna University of Technology Austria  Experience  Project Engineer Soft Engineering Solutions  Developed technical concepts and coordinated project activities.  Facilitated communication with clients and suppliers. September 2021 – Present (2 years) Vienna, Austria  Technician XYZ Electronics Company  Assisted in electrical design and testing. January 2016 – July 2021 (5 years) Beijing, China  Languages  English Fluent German Beginner Chinese Native",
+  "content": {
+    "name": "FANG LI",
+    "role": "Project and Plant Engineer",
+    "status": "active",
+    "personal": {
+      "Gender": "Female",
+      "Age": "36",
+      "Nationality": "Chinese",
+      "Location": "Vienna, Austria"
+    },
+    "education": [
+      "Bachelor's degree in Electrical Engineering",
+      "Vienna University of Technology",
+      "Austria"
+    ],
+    "experience": [
+      {
+        "position": "Project Engineer",
+        "company": "Soft Engineering Solutions",
+        "details": [
+          "Developed technical concepts and coordinated project activities.",
+          "Facilitated communication with clients and suppliers."
+        ],
+        "period": "September 2021 – Present (2 years)",
+        "location": "Vienna, Austria"
+      },
+      {
+        "position": "Technician",
+        "company": "XYZ Electronics Company",
+        "details": [
+          "Assisted in electrical design and testing."
+        ],
+        "period": "January 2016 – July 2021 (5 years)",
+        "location": "Beijing, China"
+      },
+      {
+        "position": "Languages:",
+        "company": "Chinese: Native"
+      }
+    ],
+    "skills": []
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "fileName": "Project Plant Engineer 8.pdf",
+  "raw": "Maria Garcia  Personal Information  Gender Female Age 29 Nationality Spanish Location Linz, Austria  Summary Goal-oriented project engineer with a background in civil engineering. Graduated with a degree in civil engineering. Skilled in planning and design of building projects. Strong organizational skills. Fluent in English and Spanish.  Education  Bachelor's degree in Civil Engineering Linz University of Applied Sciences, Austria  Experience  Project Engineer ABC Construction Solutions  Assisted in technical planning and design of projects.  Coordinated project activities. January 2021 – Present (3 years) Linz, Austria  Internship XYZ Construction Company  Assisted in structural engineering projects. July 2019 – September 2020 (1 year) Madrid, Spain  Languages  English Fluent Spanish Native",
+  "content": {
+    "name": "Maria Garcia",
+    "role": "Project and Plant Engineer",
+    "status": "active",
+    "personal": {
+      "Gender": "Female",
+      "Age": "29",
+      "Nationality": "Spanish",
+      "Location": "Linz, Austria"
+    },
+    "education": [
+      "Bachelor's degree in Civil Engineering",
+      "Linz University of Applied Sciences, Austria"
+    ],
+    "experience": [
+      {
+        "position": "Project Engineer",
+        "company": "ABC Construction Solutions",
+        "details": [
+          "Assisted in technical planning and design of projects.",
+          "Coordinated project activities."
+        ],
+        "period": "January 2021 – Present (3 years)",
+        "location": "Linz, Austria"
+      },
+      {
+        "position": "Internship",
+        "company": "XYZ Construction Company",
+        "details": [
+          "Assisted in structural engineering projects."
+        ],
+        "period": "July 2019 – September 2020 (1 year)",
+        "location": "Madrid, Spain"
+      },
+      {
+        "position": "Languages:",
+        "company": "Spanish: Native"
+      }
+    ],
+    "skills": []
+  }
+}

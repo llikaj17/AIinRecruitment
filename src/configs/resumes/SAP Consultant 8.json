@@ -1,0 +1,45 @@
+{
+  "fileName": "SAP Consultant 8.pdf",
+  "raw": "Zoe Reidl  Personal Information  Gender Female Age 26 Nationality German Location Graz, Austria  Summary Recent computer science graduate with a passion for technology and software systems. Strong problem-solving and communication skills. Eager to apply technical knowledge to support and optimize SAP systems. Fluent in English and German.  Education  Bachelor's degree in Computer Science University of Graz, Austria  Experience  SAP Software Development Intern NXP Tech Solutions  Assisted in SAP software development projects, gaining exposure to database management and programming languages. September 2023 – Present (6 months) Graz, Austria  IT Support Assistant Reidl Consulting Firm  Provided technical support to end-users, troubleshooting software and hardware issues. January 2023 – September 2023 (9 months) Cologne, Germany  Languages  English Fluent German Fluent",
+  "content": {
+    "name": "Zoe Reidl",
+    "role": "SAP Inhouse Consultant",
+    "status": "active",
+    "personal": {
+      "Gender": "Female",
+      "Age": "26",
+      "Nationality": "German",
+      "Location": "Graz, Austria"
+    },
+    "education": [
+      "Bachelor's degree in Computer Science",
+      "University of Graz, Austria"
+    ],
+    "experience": [
+      {
+        "position": "SAP Software Development Intern",
+        "company": "NXP Tech Solutions",
+        "details": [
+          "Assisted in SAP software development projects, gaining exposure to database management and",
+          "programming languages."
+        ],
+        "period": "September 2023 – Present (6 months)",
+        "location": "Graz, Austria"
+      },
+      {
+        "position": "IT Support Assistant",
+        "company": "Reidl Consulting Firm",
+        "details": [
+          "Provided technical support to end-users, troubleshooting software and hardware issues."
+        ],
+        "period": "January 2023 – September 2023 (9 months)",
+        "location": "Cologne, Germany"
+      },
+      {
+        "position": "Languages:",
+        "company": "German: Fluent"
+      }
+    ],
+    "skills": []
+  }
+}

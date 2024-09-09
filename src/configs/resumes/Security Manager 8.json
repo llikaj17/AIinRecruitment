@@ -1,0 +1,54 @@
+{
+  "fileName": "Security Manager 8.pdf",
+  "raw": "Flora Ilger  Personal Information  Gender Female Age 45 Nationality German Location Munich, Germany  Education  Ph.D. in Computer Science Technical University of Munich, Germany  Certifications   Certified Information Systems Security Professional (CISSP)  Certified Information Security Manager (CISM)  Certified Information Systems Auditor (CISA)  ISO 27001 Lead Auditor  Experience  Chief Information Security Officer (CISO) Panda Global Enterprises, Munich (10 years)  Developed and implemented information security strategies and policies.  Led the ISO 27001 certification process and ensured compliance with regulatory requirements.  Managed a team of cybersecurity professionals and oversaw security operations. January 2014 – Present (10 years) Munich, Germany  Senior Security Consultant ABC Cybersecurity Solutions  Provided strategic cybersecurity consulting services to clients across various industries.  Conducted risk assessments, security audits, and penetration tests.  Advised clients on GDPR compliance and data protection best practices. June 2012 – June 2016 (4 years) Frankfurt, Germany  Skills   Extensive experience in information security management  Expertise in ISO 27001, GDPR, and other regulatory frameworks  Strong leadership and team management skills  Excellent communication and presentation abilities",
+  "content": {
+    "name": "Flora Ilger",
+    "role": "Security Manager",
+    "status": "active",
+    "personal": {
+      "Gender": "Female",
+      "Age": "45",
+      "Nationality": "German",
+      "Location": "Munich, Germany"
+    },
+    "education": [
+      "Ph.D. in Computer Science",
+      "Technical University of Munich, Germany",
+      "Certifications:",
+      "• Certified Information Systems Security Professional (CISSP)",
+      "• Certified Information Security Manager (CISM)",
+      "• Certified Information Systems Auditor (CISA)",
+      "• ISO 27001 Lead Auditor"
+    ],
+    "experience": [
+      {
+        "position": "Chief Information Security Officer (CISO)",
+        "company": "Panda Global Enterprises, Munich (10 years)",
+        "details": [
+          "Developed and implemented information security strategies and policies.",
+          "Led the ISO 27001 certification process and ensured compliance with regulatory requirements.",
+          "Managed a team of cybersecurity professionals and oversaw security operations."
+        ],
+        "period": "January 2014 – Present (10 years)",
+        "location": "Munich, Germany"
+      },
+      {
+        "position": "Senior Security Consultant",
+        "company": "ABC Cybersecurity Solutions",
+        "details": [
+          "Provided strategic cybersecurity consulting services to clients across various industries.",
+          "Conducted risk assessments, security audits, and penetration tests.",
+          "Advised clients on GDPR compliance and data protection best practices."
+        ],
+        "period": "June 2012 – June 2016 (4 years)",
+        "location": "Frankfurt, Germany"
+      }
+    ],
+    "skills": [
+      "Extensive experience in information security management",
+      "Expertise in ISO 27001, GDPR, and other regulatory frameworks",
+      "Strong leadership and team management skills",
+      "Excellent communication and presentation abilities"
+    ]
+  }
+}

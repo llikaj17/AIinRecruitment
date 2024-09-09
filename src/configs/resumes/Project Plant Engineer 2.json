@@ -1,0 +1,45 @@
+{
+  "fileName": "Project Plant Engineer 2.pdf",
+  "raw": "Ahmed AI-Mansoori  Personal Information  Gender Male Age 38 Nationality Emirati Location Graz, Austria  Summary Experienced project engineer with a background in building services engineering. Graduated with a degree in energy technology. Skilled in planning and design of complex projects. Strong communicator with a talent for coordination. Fluent in English and Arabic.  Education  Bachelor's degree in Energy Technology Dubai  Experience  Project Engineer DEF Engineering GmbH  Developed technical concepts and coordinated project activities.  Conducted direct communication with clients and suppliers. October 2016 – December 2023 (7 years) Graz, Austria  Technician GHI Construction Company  Assisted in technical planning and design of building projects. January 2012 – January 2015 (3 years) Dubai, UAE  Languages  English Fluent German Beginner Arabic Native",
+  "content": {
+    "name": "Ahmed AI-Mansoori",
+    "role": "Project and Plant Engineer",
+    "status": "active",
+    "personal": {
+      "Gender": "Male",
+      "Age": "38",
+      "Nationality": "Emirati",
+      "Location": "Graz, Austria"
+    },
+    "education": [
+      "Bachelor's degree in Energy Technology",
+      "Dubai"
+    ],
+    "experience": [
+      {
+        "position": "Project Engineer",
+        "company": "DEF Engineering GmbH",
+        "details": [
+          "Developed technical concepts and coordinated project activities.",
+          "Conducted direct communication with clients and suppliers."
+        ],
+        "period": "October 2016 – December 2023 (7 years)",
+        "location": "Graz, Austria"
+      },
+      {
+        "position": "Technician",
+        "company": "GHI Construction Company",
+        "details": [
+          "Assisted in technical planning and design of building projects."
+        ],
+        "period": "January 2012 – January 2015 (3 years)",
+        "location": "Dubai, UAE"
+      },
+      {
+        "position": "Languages:",
+        "company": "Arabic: Native"
+      }
+    ],
+    "skills": []
+  }
+}

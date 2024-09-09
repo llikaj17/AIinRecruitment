@@ -1,0 +1,38 @@
+{
+  "fileName": "Program Manager 4.pdf",
+  "raw": "Sebastian Karanovic  Personal Information  Gender Male Age 25 Nationality Austrian Location Graz, Austria  Education  Diploma in Mechanical Engineering Graz University of Technology  Experience  Intern Diamond Engineering Firm  Assisted engineers in various tasks, including drafting, documentation, and basic analysis.  Gained exposure to engineering principles and project management practices. January 2023 – Present (1 year) Graz, Austria  Skills   Basic knowledge of mechanical engineering principles  Proficient in CAD software (AutoCAD, SolidWorks)  Strong attention to detail and willingness to learn  Good communication and teamwork skills  Ability to follow instructions and work under supervision",
+  "content": {
+    "name": "Sebastian Karanovic",
+    "role": "Program Manager",
+    "status": "active",
+    "personal": {
+      "Gender": "Male",
+      "Age": "25",
+      "Nationality": "Austrian",
+      "Location": "Graz, Austria"
+    },
+    "education": [
+      "Diploma in Mechanical Engineering",
+      "Graz University of Technology"
+    ],
+    "experience": [
+      {
+        "position": "Intern",
+        "company": "Diamond Engineering Firm",
+        "details": [
+          "Assisted engineers in various tasks, including drafting, documentation, and basic analysis.",
+          "Gained exposure to engineering principles and project management practices."
+        ],
+        "period": "January 2023 – Present (1 year)",
+        "location": "Graz, Austria"
+      }
+    ],
+    "skills": [
+      "Basic knowledge of mechanical engineering principles",
+      "Proficient in CAD software (AutoCAD, SolidWorks)",
+      "Strong attention to detail and willingness to learn",
+      "Good communication and teamwork skills",
+      "Ability to follow instructions and work under supervision"
+    ]
+  }
+}

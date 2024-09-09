@@ -1,0 +1,47 @@
+{
+  "fileName": "SAP Consultant 10.pdf",
+  "raw": "Csongor Hedgus  Personal Information  Gender Male Age 45 Nationality Hungarian Location Vienna, Austria  Summary Accomplished IT professional with extensive experience in SAP consulting and project management. Holds a Ph.D. in Information Technology from a prestigious university. Specialized in SAP SD, MM, PP, and QM modules. Proven track record of successful SAP implementations and process optimizations. Strong leadership and communication skills.  Education  Ph.D. in Information Technology Vienna University of Technology, Austria  Master's degree in Business Informatics University of Graz, Austria  Experience  Senior SAP Consultant Global IT Solutions GmbH  Led multiple SAP implementation projects, serving as the technical lead for various modules.  Provided consultation on process optimization and system integration. January 2009 – Present (15 years) Vienna, Austria  IT Project Manager Pharma Leading Technology  Managed cross-functional project teams to deliver IT solutions aligned with business objectives. January 2004 – December 2008 (5 years) Graz, Austria  Languages  English Fluent German Native    Certifications  SAP Certified Application Associate - SAP S/4 HANA Sales (C_TS460_1909) SAP Certified Application Associate - SAP S/4 HANA Sourcing and Procurement (C_TS450_1909) SAP Certified Application Associate - Production Planning and Manufacturing with SAP ERP 6.0 (C_TSCM42_67)",
+  "content": {
+    "name": "Csongor Hedgus",
+    "role": "SAP Inhouse Consultant",
+    "status": "active",
+    "personal": {
+      "Gender": "Male",
+      "Age": "45",
+      "Nationality": "Hungarian",
+      "Location": "Vienna, Austria"
+    },
+    "education": [
+      "Ph.D. in Information Technology",
+      "Vienna University of Technology, Austria",
+      "Master's degree in Business Informatics",
+      "University of Graz, Austria"
+    ],
+    "experience": [
+      {
+        "position": "Senior SAP Consultant",
+        "company": "Global IT Solutions GmbH",
+        "details": [
+          "Led multiple SAP implementation projects, serving as the technical lead for various modules.",
+          "Provided consultation on process optimization and system integration."
+        ],
+        "period": "January 2009 – Present (15 years)",
+        "location": "Vienna, Austria"
+      },
+      {
+        "position": "IT Project Manager",
+        "company": "Pharma Leading Technology",
+        "details": [
+          "Managed cross-functional project teams to deliver IT solutions aligned with business objectives."
+        ],
+        "period": "January 2004 – December 2008 (5 years)",
+        "location": "Graz, Austria"
+      },
+      {
+        "position": "Languages:",
+        "company": "SAP Certified Application Associate - Production Planning and Manufacturing with SAP ERP 6.0 (C_TSCM42_67)"
+      }
+    ],
+    "skills": []
+  }
+}

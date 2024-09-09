@@ -1,0 +1,47 @@
+{
+  "fileName": "Sales Manager 1.pdf",
+  "raw": "Tatiana Schuler  Personal Information  Gender Female Age 38 Nationality Austrian Location Graz, Austria  Education  Master's degree in Mechanical Engineering Graz University of Technology, Austria  Experience  Sales Manager Mondi Engineering Solutions  Developed new business opportunities and maintained relationships with existing clients.  Led the sales team in achieving targets and expanding market share. June 2019 – Present (4 years, 6 months) Graz, Austria  Key Account Manager ABC Automotive GmbH  Managed key client accounts and negotiated contracts to drive revenue growth.  Identified and capitalized on new market opportunities in the automotive sector. March 2016 – March 2019 (3 years) Vienna, Austria  Skills   8 years of experience in technical B2B sales  Proven track record in new business development and market expansion  Strong communication and negotiation skills  Fluent in German and English",
+  "content": {
+    "name": "Tatiana Schuler",
+    "role": "Sales Manager",
+    "status": "active",
+    "personal": {
+      "Gender": "Female",
+      "Age": "38",
+      "Nationality": "Austrian",
+      "Location": "Graz, Austria"
+    },
+    "education": [
+      "Master's degree in Mechanical Engineering",
+      "Graz University of Technology, Austria"
+    ],
+    "experience": [
+      {
+        "position": "Sales Manager",
+        "company": "Mondi Engineering Solutions",
+        "details": [
+          "Developed new business opportunities and maintained relationships with existing clients.",
+          "Led the sales team in achieving targets and expanding market share."
+        ],
+        "period": "June 2019 – Present (4 years, 6 months)",
+        "location": "Graz, Austria"
+      },
+      {
+        "position": "Key Account Manager",
+        "company": "ABC Automotive GmbH",
+        "details": [
+          "Managed key client accounts and negotiated contracts to drive revenue growth.",
+          "Identified and capitalized on new market opportunities in the automotive sector."
+        ],
+        "period": "March 2016 – March 2019 (3 years)",
+        "location": "Vienna, Austria"
+      }
+    ],
+    "skills": [
+      "8 years of experience in technical B2B sales",
+      "Proven track record in new business development and market expansion",
+      "Strong communication and negotiation skills",
+      "Fluent in German and English"
+    ]
+  }
+}

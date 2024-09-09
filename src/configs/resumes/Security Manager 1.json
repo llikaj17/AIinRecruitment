@@ -1,0 +1,49 @@
+{
+  "fileName": "Security Manager 1.pdf",
+  "raw": "Anna Maria Ulz  Personal Information  Gender Female Age 35 Nationality Austrian Location Graz, Austria  Education  Master's degree in Computer Science Graz University of Technology, Austria  Experience  Information Security Specialist Brave Tech Solutions  Led the implementation and maintenance of ISO 27001 management system.  Conducted internal audits and facilitated external certifications for clients.  Managed information security incidents and provided guidance on data protection issues. January 2018 – Present (6 years) Graz, Austria  IT Security Analyst Drita Security Services  Assisted in the development and implementation of security policies and procedures.  Conducted risk assessments and vulnerability scans to identify security gaps.  Provided training and awareness programs on information security best practices. January 2014 – September 2017 (3 years, 9 months) Vienna, Austria  Skills  Expertise in ISO 27001 management system  Strong knowledge of GDPR and data protection laws  Experience with risk management and project management  Excellent communication and presentation skills",
+  "content": {
+    "name": "Anna Maria Ulz",
+    "role": "Security Manager",
+    "status": "active",
+    "personal": {
+      "Gender": "Female",
+      "Age": "35",
+      "Nationality": "Austrian",
+      "Location": "Graz, Austria"
+    },
+    "education": [
+      "Master's degree in Computer Science",
+      "Graz University of Technology, Austria"
+    ],
+    "experience": [
+      {
+        "position": "Information Security Specialist",
+        "company": "Brave Tech Solutions",
+        "details": [
+          "Led the implementation and maintenance of ISO 27001 management system.",
+          "Conducted internal audits and facilitated external certifications for clients.",
+          "Managed information security incidents and provided guidance on data protection issues."
+        ],
+        "period": "January 2018 – Present (6 years)",
+        "location": "Graz, Austria"
+      },
+      {
+        "position": "IT Security Analyst",
+        "company": "Drita Security Services",
+        "details": [
+          "Assisted in the development and implementation of security policies and procedures.",
+          "Conducted risk assessments and vulnerability scans to identify security gaps.",
+          "Provided training and awareness programs on information security best practices."
+        ],
+        "period": "January 2014 – September 2017 (3 years, 9 months)",
+        "location": "Vienna, Austria"
+      }
+    ],
+    "skills": [
+      "Expertise in ISO 27001 management system",
+      "Strong knowledge of GDPR and data protection laws",
+      "Experience with risk management and project management",
+      "Excellent communication and presentation skills"
+    ]
+  }
+}

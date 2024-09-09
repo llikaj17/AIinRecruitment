@@ -1,0 +1,47 @@
+{
+  "fileName": "System Engineer 9.pdf",
+  "raw": "Juan Martinez  Personal Information  Gender Male Age 45 Nationality Spanish Location Salzburg, Austria  Summary Skilled service engineer specializing in analytical measuring systems. Graduated from a technical college with a focus on electrical engineering. Experienced in maintenance, calibration, and troubleshooting. Known for problem-solving capabilities and effective communication.  Education  Diploma in Electrical Engineering Salzburg Technical College Austria  Experience  Service Technician GHI Analytical Solutions GmbH  Conducted maintenance and calibration of analytical measuring systems.  Prepared service reports and protocols. January 2019 – Present (5 years) Salzburg, Austria  Technician DEF Tech Services  Provided technical support for industrial automation systems.  Assisted in system installations and upgrades. March 2015 – December 2018 (3 year) Madrid, Spain  Languages English Fluent German Intermediate Spanish Native",
+  "content": {
+    "name": "JuanMartinez",
+    "role": "System Engineer",
+    "status": "active",
+    "personal": {
+      "Gender": "Male",
+      "Age": "45",
+      "Nationality": "Spanish",
+      "Location": "Salzburg, Austria"
+    },
+    "education": [
+      "Diploma in Electrical Engineering",
+      "Salzburg Technical College",
+      "Austria"
+    ],
+    "experience": [
+      {
+        "position": "Service Technician",
+        "company": "GHI Analytical Solutions GmbH",
+        "details": [
+          "Conducted maintenance and calibration of analytical measuring systems.",
+          "Prepared service reports and protocols."
+        ],
+        "period": "January 2019 – Present (5 years)",
+        "location": "Salzburg, Austria"
+      },
+      {
+        "position": "Technician",
+        "company": "DEF Tech Services",
+        "details": [
+          "Provided technical support for industrial automation systems.",
+          "Assisted in system installations and upgrades."
+        ],
+        "period": "March 2015 – December 2018 (3 year)",
+        "location": "Madrid, Spain"
+      },
+      {
+        "position": "Languages:",
+        "company": "Spanish: Native"
+      }
+    ],
+    "skills": []
+  }
+}

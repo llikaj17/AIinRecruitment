@@ -1,0 +1,45 @@
+{
+  "fileName": "SAP Consultant 5.pdf",
+  "raw": "Elena Stefano  Personal Information  Gender Female Age 40 Nationality Italian Location Graz, Austria  Summary Accomplished SAP consultant with over 15 years of experience in SAP SD, MM, and PP modules. Graduated with a degree in computer science. Proficient in SAP customization and process optimization. Strong leadership and communication skills.  Education  Bachelor's degree in Computer Science University of Bologna, Italy  Experience  SAP Inhouse Consultant Magna Manufacturing GmbH  Led SAP projects and provided technical leadership for SAP SD, MM, and PP modules.  Optimized business processes and provided 2nd and 3rd level support. March 2009 – Present (15 years) Graz, Austria  SAP Support Specialist Cardo Consulting Services  Provided support and training to SAP end-users, ensuring smooth system operation. January 2005 – January 2009 (4 years) Milan, Italy  Languages  English Fluent German Intermediate Italian Native",
+  "content": {
+    "name": "Elena Stefano",
+    "role": "SAP Inhouse Consultant",
+    "status": "active",
+    "personal": {
+      "Gender": "Female",
+      "Age": "40",
+      "Nationality": "Italian",
+      "Location": "Graz, Austria"
+    },
+    "education": [
+      "Bachelor's degree in Computer Science",
+      "University of Bologna, Italy"
+    ],
+    "experience": [
+      {
+        "position": "SAP Inhouse Consultant",
+        "company": "Magna Manufacturing GmbH",
+        "details": [
+          "Led SAP projects and provided technical leadership for SAP SD, MM, and PP modules.",
+          "Optimized business processes and provided 2nd and 3rd level support."
+        ],
+        "period": "March 2009 – Present (15 years)",
+        "location": "Graz, Austria"
+      },
+      {
+        "position": "SAP Support Specialist",
+        "company": "Cardo Consulting Services",
+        "details": [
+          "Provided support and training to SAP end-users, ensuring smooth system operation."
+        ],
+        "period": "January 2005 – January 2009 (4 years)",
+        "location": "Milan, Italy"
+      },
+      {
+        "position": "Languages:",
+        "company": "Italian: Native"
+      }
+    ],
+    "skills": []
+  }
+}
