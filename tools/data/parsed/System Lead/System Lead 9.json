@@ -1,0 +1,56 @@
+{
+  "fileName": "System Lead 9.pdf",
+  "raw": "V e r o n i k a A l e k s a n d r o v  Personal Information  Gender Female Age 38 Nationality Bulgarian Location Vienna, Austria  Education  Bachelor's in Computer Engineering American University of Bulgaria  Experience  Lead Software Engineer Dritan Tech Solutions, Madrid (2 years)  Led a team of developers in the design and implementation of software solutions for clients.  Contributed to architectural discussions and decision-making processes. January 2021 – Present (3 years) Vienna, Austria  Solution Architect BCG Consulting Group  Collaborated with clients to define technical requirements and design scalable solutions.  Conducted architecture reviews and provided recommendations for system improvements. December 2019 – December 2020 (1 year) Blagoevgrad, Bulgaria  Technical Consultant American University of Bulgaria  Provided technical expertise and support in implementing and configuring software systems.  Assisted in troubleshooting complex technical issues and optimizing system performance. January 2019 – December 2019 (1 year) Blagoevgrad, Bulgaria  Skills   Strong technical background in software engineering and architecture  Experience in leading teams and collaborating with stakeholders  Adaptability and quick learning abilities demonstrated through frequent job changes  Excellent communication and presentation skills  Fluent in English and Spanish",
+  "content": {
+    "name": "VeronikaAleksandrov",
+    "personal": {
+      "Gender": "Female",
+      "Age": "38",
+      "Nationality": "Bulgarian",
+      "Location": "Vienna, Austria"
+    },
+    "education": [
+      "Bachelor's in Computer Engineering",
+      "American University of Bulgaria"
+    ],
+    "experience": [
+      {
+        "position": "Lead Software Engineer",
+        "company": "Dritan Tech Solutions, Madrid (2 years)",
+        "details": [
+          "Led a team of developers in the design and implementation of software solutions for clients.",
+          "Contributed to architectural discussions and decision-making processes."
+        ],
+        "period": "January 2021 – Present (3 years)",
+        "location": "Vienna, Austria"
+      },
+      {
+        "position": "Solution Architect",
+        "company": "BCG Consulting Group",
+        "details": [
+          "Collaborated with clients to define technical requirements and design scalable solutions.",
+          "Conducted architecture reviews and provided recommendations for system improvements."
+        ],
+        "period": "December 2019 – December 2020 (1 year)",
+        "location": "Blagoevgrad, Bulgaria"
+      },
+      {
+        "position": "Technical Consultant",
+        "company": "American University of Bulgaria",
+        "details": [
+          "Provided technical expertise and support in implementing and configuring software systems.",
+          "Assisted in troubleshooting complex technical issues and optimizing system performance."
+        ],
+        "period": "January 2019 – December 2019 (1 year)",
+        "location": "Blagoevgrad, Bulgaria"
+      }
+    ],
+    "skills": [
+      "Strong technical background in software engineering and architecture",
+      "Experience in leading teams and collaborating with stakeholders",
+      "Adaptability and quick learning abilities demonstrated through frequent job changes",
+      "Excellent communication and presentation skills",
+      "Fluent in English and Spanish"
+    ]
+  }
+}

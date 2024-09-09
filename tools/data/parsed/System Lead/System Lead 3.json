@@ -1,0 +1,45 @@
+{
+  "fileName": "System Lead 3.pdf",
+  "raw": "Ele n a   K o r d u b a  Personal Information  Gender Female Age 35 Nationality Ukrainian Location Graz, Austria  Education  Master's degree in Computer Engineering Graz University of Technology, Austria  Experience  System Architect Diana Software Solutions  Designed and implemented scalable and resilient software architectures for enterprise applications.  Conducted architecture reviews and provided recommendations for optimization. January 2017 – Present (7 years) Remote, Europe  Software Developer Bink Tech Group  Developed software solutions using Java and Spring Framework.  Collaborated with cross-functional teams to deliver high-quality software products. June 2012 – September 2016 (4 years) Kyiv, Ukraine  Skills   Experienced in data architecture, integration patterns, and practices  Knowledgeable in SaaS, DevOps, and Service Mesh technologies  Proficient in English, with intermediate German language skills  Detail-oriented with strong organizational skills",
+  "content": {
+    "name": "ElenaKorduba",
+    "personal": {
+      "Gender": "Female",
+      "Age": "35",
+      "Nationality": "Ukrainian",
+      "Location": "Graz, Austria"
+    },
+    "education": [
+      "Master's degree in Computer Engineering",
+      "Graz University of Technology, Austria"
+    ],
+    "experience": [
+      {
+        "position": "System Architect",
+        "company": "Diana Software Solutions",
+        "details": [
+          "Designed and implemented scalable and resilient software architectures for enterprise applications.",
+          "Conducted architecture reviews and provided recommendations for optimization."
+        ],
+        "period": "January 2017 – Present (7 years)",
+        "location": "Remote, Europe"
+      },
+      {
+        "position": "Software Developer",
+        "company": "Bink Tech Group",
+        "details": [
+          "Developed software solutions using Java and Spring Framework.",
+          "Collaborated with cross-functional teams to deliver high-quality software products."
+        ],
+        "period": "June 2012 – September 2016 (4 years)",
+        "location": "Kyiv, Ukraine"
+      }
+    ],
+    "skills": [
+      "Experienced in data architecture, integration patterns, and practices",
+      "Knowledgeable in SaaS, DevOps, and Service Mesh technologies",
+      "Proficient in English, with intermediate German language skills",
+      "Detail-oriented with strong organizational skills"
+    ]
+  }
+}
