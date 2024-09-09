@@ -1,0 +1,48 @@
+{
+  "fileName": "System Lead 4.pdf",
+  "raw": "Dr. Florian Besser  Personal Information  Gender Male Age 48 Nationality German Location Munich, German  Education  Ph.D. in Computer Science Technical University of Munich, Germany  Experience  Chief Technology Officer Rulebook Software   Defined and executed the technology strategy to drive innovation and growth.  Oversaw the architecture of complex software systems and ensured alignment  with business objectives. January 2009 – January 2024 ( 15 years) Munich, Germany  Enterprise Architect Brain Global Solutions  Led the design and implementation of enterprise architecture frameworks and standards.  Provided guidance and mentorship to architecture teams and facilitated knowledge sharing. March 2005 – March 2010 (5 years) Berlin, Germany  Skills   Extensive experience in enterprise architecture and software portfolio management  Proven track record of leading digital transformation initiatives in large organizations  In-depth knowledge of SaaS, DevOps, and cloud technologies  Excellent leadership, communication, and stakeholder management skills",
+  "content": {
+    "name": "Dr.Florian Besser",
+    "role": "Lead System & Enterprise Architect for Software Portfolio",
+    "status": "active",
+    "personal": {
+      "Gender": "Male",
+      "Age": "48",
+      "Nationality": "German",
+      "Location": "Munich, German"
+    },
+    "education": [
+      "Ph.D. in Computer Science",
+      "Technical University of Munich, Germany"
+    ],
+    "experience": [
+      {
+        "position": "Chief Technology Officer",
+        "company": "Rulebook Software",
+        "details": [
+          "Defined and executed the technology strategy to drive innovation and growth.",
+          "Oversaw the architecture of complex software systems and ensured alignment",
+          "with business objectives."
+        ],
+        "period": "January 2009 – January 2024 ( 15 years)",
+        "location": "Munich, Germany"
+      },
+      {
+        "position": "Enterprise Architect",
+        "company": "Brain Global Solutions",
+        "details": [
+          "Led the design and implementation of enterprise architecture frameworks and standards.",
+          "Provided guidance and mentorship to architecture teams and facilitated knowledge sharing."
+        ],
+        "period": "March 2005 – March 2010 (5 years)",
+        "location": "Berlin, Germany"
+      }
+    ],
+    "skills": [
+      "Extensive experience in enterprise architecture and software portfolio management",
+      "Proven track record of leading digital transformation initiatives in large organizations",
+      "In-depth knowledge of SaaS, DevOps, and cloud technologies",
+      "Excellent leadership, communication, and stakeholder management skills"
+    ]
+  }
+}
