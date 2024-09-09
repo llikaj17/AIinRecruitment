@@ -1,0 +1,46 @@
+{
+  "fileName": "Project Plant Engineer 1.pdf",
+  "raw": "Lea Ilger  Personal Information  Gender Female Age 32 Nationality Austrian Location Graz, Austria  Summary Dynamic project engineer with expertise in energy and environmental technology. Graduated with a degree in HVAC engineering. Experienced in planning and design of technically complex projects. Skilled in communication and coordination. Fluent in German and English.  Education  Bachelor's degree in HVAC Engineering Graz University of Technology Austria  Experience  Project Engineer ABC Engineering Solutions  Led technical coordination and planning for HVAC projects.  Managed communication with clients and suppliers. January 2019 – Present (5 years)  Junior Project Manager ABC Engineering Solutions June 2018 – December 2018 (6 months)  Internship XYZ Construction Company  Assisted in technical design and coordination of building projects. March 2017 – March 2018 (1 year) Vienna, Austria  Languages  English Fluent German Fluent",
+  "content": {
+    "name": "Lea Ilger",
+    "role": " Project and Plant Engineer",
+    "status": "active",
+    "personal": {
+      "Gender": "Female",
+      "Age": "32",
+      "Nationality": "Austrian",
+      "Location": "Graz, Austria"
+    },
+    "education": [
+      "Bachelor's degree in HVAC Engineering",
+      "Graz University of Technology",
+      "Austria"
+    ],
+    "experience": [
+      {
+        "position": "Project Engineer",
+        "company": "ABC Engineering Solutions",
+        "details": [
+          "Led technical coordination and planning for HVAC projects.",
+          "Managed communication with clients and suppliers."
+        ],
+        "period": "January 2019 – Present (5 years)",
+        "location": "Junior Project Manager"
+      },
+      {
+        "position": "ABC Engineering Solutions",
+        "company": "XYZ Construction Company",
+        "details": [
+          "Assisted in technical design and coordination of building projects."
+        ],
+        "period": "March 2017 – March 2018 (1 year)",
+        "location": "Vienna, Austria"
+      },
+      {
+        "position": "Languages:",
+        "company": "German: Fluent"
+      }
+    ],
+    "skills": []
+  }
+}

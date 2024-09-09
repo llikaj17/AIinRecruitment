@@ -1,0 +1,48 @@
+{
+  "fileName": "IT Specialist 10.pdf",
+  "raw": "Ahmed Ben Salah  Personal Information  Gender Male Age 30 Nationality Moroccan Location Casablanca, Morocco  Summary Experienced IT professional with a background in system administration and technical support. Proficient  in IT infrastructure management and troubleshooting. Seeking an opportunity to relocate to  Graz, Austria, and contribute to the IT team at AVL List GmbH.  Education  Bachelor's degree in Computer Science University Hassan II, Casablanca, Morocco  Experience  System Administrator Casablanca IT Solution  Managed IT infrastructure, including servers, networks, and security systems.  Provided technical support to end-users and resolved IT-related issues in a timely manner. January 2020 – Present (4 years) Casablanca, Morocco  Technical Support Specialist Mind Tech Services  Assisted clients with hardware and software troubleshooting and provided solutions to  technical problems.  Installed, configured, and maintained IT systems and applications. June 2017 – December 2019 (1 year, 6 months) Casablanca, Morocco  Skills   Proficient in IT infrastructure management  Strong troubleshooting and problem-solving abilities  Excellent communication and interpersonal skills  Fluent in Arabic, French, and English",
+  "content": {
+    "name": "Ahmed Ben Salah",
+    "role": "IT Infrastructure Specialist",
+    "status": "active",
+    "personal": {
+      "Gender": "Male",
+      "Age": "30",
+      "Nationality": "Moroccan",
+      "Location": "Casablanca, Morocco"
+    },
+    "education": [
+      "Bachelor's degree in Computer Science",
+      "University Hassan II, Casablanca, Morocco"
+    ],
+    "experience": [
+      {
+        "position": "System Administrator",
+        "company": "Casablanca IT Solution",
+        "details": [
+          "Managed IT infrastructure, including servers, networks, and security systems.",
+          "Provided technical support to end-users and resolved IT-related issues in a timely manner."
+        ],
+        "period": "January 2020 – Present (4 years)",
+        "location": "Casablanca, Morocco"
+      },
+      {
+        "position": "Technical Support Specialist",
+        "company": "Mind Tech Services",
+        "details": [
+          "Assisted clients with hardware and software troubleshooting and provided solutions to",
+          "technical problems.",
+          "Installed, configured, and maintained IT systems and applications."
+        ],
+        "period": "June 2017 – December 2019 (1 year, 6 months)",
+        "location": "Casablanca, Morocco"
+      }
+    ],
+    "skills": [
+      "Proficient in IT infrastructure management",
+      "Strong troubleshooting and problem-solving abilities",
+      "Excellent communication and interpersonal skills",
+      "Fluent in Arabic, French, and English"
+    ]
+  }
+}

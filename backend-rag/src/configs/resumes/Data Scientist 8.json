@@ -1,0 +1,59 @@
+{
+  "fileName": "Data Scientist 8.pdf",
+  "raw": "Andi Rupp  Personal Information  Gender Male Age 35 Nationality Austrian Location Graz, Austria  Education Bachelor's in Mechanical Engineering Graz University of Technology  Experience Data Scientist Tech Solutions Ltd.  Transitioned into the field of data science after completing online courses and self-study in  machine learning and data analysis.  Developed predictive models for customer churn analysis and product recommendation  systems, contributing to increased revenue and customer satisfaction.  Collaborated with cross-functional teams to implement data-driven solutions and automate  manual processes. January 2022 – Present (2 years) London, UK  Mechanical Engineer Engineering Innovations GmbH  Led design and development projects for automotive components, focusing on  optimizing performance and reducing manufacturing costs.  Conducted finite element analysis (FEA) and computational fluid dynamics (CFD) simulations  to validate designs and identify areas for improvement.  Coordinated testing and validation activities, ensuring compliance with industry standards  and regulations. January 2015 – January 2022 (7 years) Graz, Austria  Skills  Proficient in Python, R, and SQL for data manipulation, analysis, and modeling  Experience with machine learning algorithms, including regression, classification, and clustering  Strong problem-solving and analytical skills, with a background in engineering principles and  design optimization  Excellent communication and teamwork abilities, with a proven track record of  collaborating effectively with colleagues from diverse backgrounds  Adaptable and quick learner, with the ability to thrive in dynamic environments and transition  into new roles",
+  "content": {
+    "name": "Andi Rupp",
+    "role": "Data Scientist",
+    "status": "active",
+    "personal": {
+      "Gender": "Male",
+      "Age": "35",
+      "Nationality": "Austrian",
+      "Location": "Graz, Austria"
+    },
+    "education": [
+      "Bachelor's in Mechanical Engineering",
+      "Graz University of Technology"
+    ],
+    "experience": [
+      {
+        "position": "Data Scientist",
+        "company": "Tech Solutions Ltd.",
+        "details": [
+          "Transitioned into the field of data science after completing online courses and self-study in",
+          "machine learning and data analysis.",
+          "Developed predictive models for customer churn analysis and product recommendation",
+          "systems, contributing to increased revenue and customer satisfaction.",
+          "Collaborated with cross-functional teams to implement data-driven solutions and automate",
+          "manual processes."
+        ],
+        "period": "January 2022 – Present (2 years)",
+        "location": "London, UK"
+      },
+      {
+        "position": "Mechanical Engineer",
+        "company": "Engineering Innovations GmbH",
+        "details": [
+          "Led design and development projects for automotive components, focusing on",
+          "optimizing performance and reducing manufacturing costs.",
+          "Conducted finite element analysis (FEA) and computational fluid dynamics (CFD) simulations",
+          "to validate designs and identify areas for improvement.",
+          "Coordinated testing and validation activities, ensuring compliance with industry standards",
+          "and regulations."
+        ],
+        "period": "January 2015 – January 2022 (7 years)",
+        "location": "Graz, Austria"
+      }
+    ],
+    "skills": [
+      "Proficient in Python, R, and SQL for data manipulation, analysis, and modeling",
+      "Experience with machine learning algorithms, including regression, classification, and clustering",
+      "Strong problem-solving and analytical skills, with a background in engineering principles and",
+      "design optimization",
+      "Excellent communication and teamwork abilities, with a proven track record of",
+      "collaborating effectively with colleagues from diverse backgrounds",
+      "Adaptable and quick learner, with the ability to thrive in dynamic environments and transition",
+      "into new roles"
+    ]
+  }
+}

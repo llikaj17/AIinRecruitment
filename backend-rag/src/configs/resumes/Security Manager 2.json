@@ -1,0 +1,49 @@
+{
+  "fileName": "Security Manager 2.pdf",
+  "raw": "Ahmed Bolbol  Personal Information  Gender Male Age 40 Nationality Pakistani Location Graz, Austria  Education  Bachelor's degree in Computer Science National University of Sciences and Technology, Pakistan  Experience  Information Security Manager Cybersecurity Solutions  Implemented and maintained ISO 27001 management system for clients across various industries.  Conducted internal audits and facilitated external certifications.  Provided consultancy on TISAX assessments and GDPR compliance. January 2016 – Present (8 years) Islamabad, Pakistan  Cybersecurity Consultant Brain Consultancy Services  Advised clients on cybersecurity strategies and risk management practices.  Developed and delivered training programs on information security awareness.  Conducted security assessments and penetration testing for organizations. January 2012 – January 2017 (5 years) Dubai  Skills   In-depth knowledge of ISO 27001 and TISAX  Experience in data protection and risk management  Strong project management and consulting skills  Fluent in English, Urdu, and Arabic",
+  "content": {
+    "name": "Ahmed Bolbol",
+    "role": "Security Manager",
+    "status": "active",
+    "personal": {
+      "Gender": "Male",
+      "Age": "40",
+      "Nationality": "Pakistani",
+      "Location": "Graz, Austria"
+    },
+    "education": [
+      "Bachelor's degree in Computer Science",
+      "National University of Sciences and Technology, Pakistan"
+    ],
+    "experience": [
+      {
+        "position": "Information Security Manager",
+        "company": "Cybersecurity Solutions",
+        "details": [
+          "Implemented and maintained ISO 27001 management system for clients across various industries.",
+          "Conducted internal audits and facilitated external certifications.",
+          "Provided consultancy on TISAX assessments and GDPR compliance."
+        ],
+        "period": "January 2016 – Present (8 years)",
+        "location": "Islamabad, Pakistan"
+      },
+      {
+        "position": "Cybersecurity Consultant",
+        "company": "Brain Consultancy Services",
+        "details": [
+          "Advised clients on cybersecurity strategies and risk management practices.",
+          "Developed and delivered training programs on information security awareness.",
+          "Conducted security assessments and penetration testing for organizations."
+        ],
+        "period": "January 2012 – January 2017 (5 years)",
+        "location": "Dubai"
+      }
+    ],
+    "skills": [
+      "In-depth knowledge of ISO 27001 and TISAX",
+      "Experience in data protection and risk management",
+      "Strong project management and consulting skills",
+      "Fluent in English, Urdu, and Arabic"
+    ]
+  }
+}

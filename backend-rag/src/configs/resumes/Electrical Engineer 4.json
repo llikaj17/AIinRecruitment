@@ -1,0 +1,36 @@
+{
+  "fileName": "Electrical Engineer 4.pdf",
+  "raw": "Alesia Ferrari  Personal Information  Gender Female Age 27 Nationality Italian Location Graz, Austria  Summary Entry-level electrical engineer with a background in electrical systems design and analysis. Proficient in AutoCAD and MATLAB. Strong problem-solving skills and attention to detail. Seeking an opportunity to grow and contribute to projects in a dynamic environment. Fluent in English and Italian.  Education  Master's degree in Electrical Engineering University of Padua, Italy  Experience  Electrical Systems Designer REAL DATA Engineering Solutions  Assisted in the design and simulation of electrical systems for industrial applications.  Conducted analysis and optimization of system performance. March 2021 – Present (3 years)  Languages  English Fluent Italian Native",
+  "content": {
+    "name": "Alesia Ferrari",
+    "role": "Electrical Engineer",
+    "status": "active",
+    "personal": {
+      "Gender": "Female",
+      "Age": "27",
+      "Nationality": "Italian",
+      "Location": "Graz, Austria"
+    },
+    "education": [
+      "Master's degree in Electrical Engineering",
+      "University of Padua, Italy"
+    ],
+    "experience": [
+      {
+        "position": "Electrical Systems Designer",
+        "company": "REAL DATA Engineering Solutions",
+        "details": [
+          "Assisted in the design and simulation of electrical systems for industrial applications.",
+          "Conducted analysis and optimization of system performance."
+        ],
+        "period": "March 2021 – Present (3 years)",
+        "location": "Languages:"
+      },
+      {
+        "position": "English: Fluent",
+        "company": "Italian: Native"
+      }
+    ],
+    "skills": []
+  }
+}

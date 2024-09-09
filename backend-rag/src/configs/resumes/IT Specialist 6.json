@@ -1,0 +1,57 @@
+{
+  "fileName": "IT Specialist 6.pdf",
+  "raw": "Christina Poltz  Personal Information  Gender Female Age 29 Nationality German Location Munich, Germany  Education  Master's degree in Information Technology Technical University of Munich, Germany  Experience  IT Administrator Brave Tech Solutions  Managed IT infrastructure and provided technical support to end-users.  Assisted in the administration of Jira and Confluence systems. March 2023 – Present (1 year) Munich, Germany  Network Engineer Databricks Networks  Designed and implemented network solutions for small and medium-sized businesses.  Conducted network troubleshooting and security assessments. January 2021 – January 2023 (2 years) Berlin, Germany  Systems Analyst Hamburg IT Services  Analyzed system requirements and proposed technical solutions.  Assisted in the implementation and maintenance of IT systems. September 2019 – December 2020 (1 year) Hamburg, Germany  Skills   Proficient in IT infrastructure management  Experience with Jira and Confluence administration  Strong analytical and problem-solving skills  Excellent communication and teamwork abilities",
+  "content": {
+    "name": "Christina Poltz",
+    "role": "IT Infrastructure Specialist",
+    "status": "active",
+    "personal": {
+      "Gender": "Female",
+      "Age": "29",
+      "Nationality": "German",
+      "Location": "Munich, Germany"
+    },
+    "education": [
+      "Master's degree in Information Technology",
+      "Technical University of Munich, Germany"
+    ],
+    "experience": [
+      {
+        "position": "IT Administrator",
+        "company": "Brave Tech Solutions",
+        "details": [
+          "Managed IT infrastructure and provided technical support to end-users.",
+          "Assisted in the administration of Jira and Confluence systems."
+        ],
+        "period": "March 2023 – Present (1 year)",
+        "location": "Munich, Germany"
+      },
+      {
+        "position": "Network Engineer",
+        "company": "Databricks Networks",
+        "details": [
+          "Designed and implemented network solutions for small and medium-sized businesses.",
+          "Conducted network troubleshooting and security assessments."
+        ],
+        "period": "January 2021 – January 2023 (2 years)",
+        "location": "Berlin, Germany"
+      },
+      {
+        "position": "Systems Analyst",
+        "company": "Hamburg IT Services",
+        "details": [
+          "Analyzed system requirements and proposed technical solutions.",
+          "Assisted in the implementation and maintenance of IT systems."
+        ],
+        "period": "September 2019 – December 2020 (1 year)",
+        "location": "Hamburg, Germany"
+      }
+    ],
+    "skills": [
+      "Proficient in IT infrastructure management",
+      "Experience with Jira and Confluence administration",
+      "Strong analytical and problem-solving skills",
+      "Excellent communication and teamwork abilities"
+    ]
+  }
+}

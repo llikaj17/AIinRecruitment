@@ -1,0 +1,37 @@
+{
+  "fileName": "Electrical Engineer 9.pdf",
+  "raw": "Ruppert Schmidt  Personal Information  Gender Male Age 35 Nationality Austrian Location Graz, Austria  Summary Dedicated electrical technician with 8 years of experience in industrial settings. Skilled in installing, maintaining, and troubleshooting electrical systems. Proficient in reading technical diagrams and schematics. Eager to transition into an engineering role and apply practical knowledge to contribute to project success.  Education  Bachelor’s degree in Electrical Engineering Graz University of Technology, Graz  Experience  Electrical Technician Magna Graz (8 years)  Installed, repaired, and maintained electrical systems in manufacturing plants, ensuring smooth operation and compliance with safety standards.  Conducted regular inspections and tests to identify and rectify electrical faults and issues. March 2016 – Present (8 years)  Skills   Proficient in electrical installations and maintenance  Strong troubleshooting abilities  Familiarity with technical diagrams and schematics  Safety-conscious approach to work",
+  "content": {
+    "name": "Ruppert Schmidt",
+    "role": "Electrical Engineer",
+    "status": "active",
+    "personal": {
+      "Gender": "Male",
+      "Age": "35",
+      "Nationality": "Austrian",
+      "Location": "Graz, Austria"
+    },
+    "education": [
+      "Bachelor’s degree in Electrical Engineering",
+      "Graz University of Technology, Graz"
+    ],
+    "experience": [
+      {
+        "position": "Electrical Technician",
+        "company": "Graz (8 years)",
+        "details": [
+          "Installed, repaired, and maintained electrical systems in manufacturing plants, ensuring smooth",
+          "operation and compliance with safety standards.",
+          "Conducted regular inspections and tests to identify and rectify electrical faults and issues."
+        ],
+        "period": "March 2016 – Present (8 years)"
+      }
+    ],
+    "skills": [
+      "Proficient in electrical installations and maintenance",
+      "Strong troubleshooting abilities",
+      "Familiarity with technical diagrams and schematics",
+      "Safety-conscious approach to work"
+    ]
+  }
+}

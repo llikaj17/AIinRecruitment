@@ -1,0 +1,49 @@
+{
+  "fileName": "Security Manager 4.pdf",
+  "raw": "Li Wei Lu  Personal Information  Gender Male Age 33 Nationality Chinese Location Graz, Austria  Education  Master's degree in Computer Science Tsinghua University, China  Experience  Information Security Consultant Grand Consulting  Led the implementation of ISO 27001 management system for government and corporate clients.  Conducted risk assessments and provided recommendations for cybersecurity improvements.  Assisted clients in achieving TISAX certifications. January 2020 – Present (4 years) Beijing, China  Cybersecurity Analyst Cyber Solutions  Conducted security assessments and penetration tests for web applications and networks.  Assisted in incident response activities and forensic investigations.  Developed security policies and procedures based on industry best practices. June 2016 – September 2019 (4 years) Shanghai, China  Skills   Strong expertise in ISO 27001 and TISAX  Knowledgeable about GDPR and international data protection laws  Proficient in risk management and incident handling  Fluent in Mandarin and English",
+  "content": {
+    "name": "Li Wei Lu",
+    "role": "Security Manager",
+    "status": "active",
+    "personal": {
+      "Gender": "Male",
+      "Age": "33",
+      "Nationality": "Chinese",
+      "Location": "Graz, Austria"
+    },
+    "education": [
+      "Master's degree in Computer Science",
+      "Tsinghua University, China"
+    ],
+    "experience": [
+      {
+        "position": "Information Security Consultant",
+        "company": "Grand Consulting",
+        "details": [
+          "Led the implementation of ISO 27001 management system for government and corporate clients.",
+          "Conducted risk assessments and provided recommendations for cybersecurity improvements.",
+          "Assisted clients in achieving TISAX certifications."
+        ],
+        "period": "January 2020 – Present (4 years)",
+        "location": "Beijing, China"
+      },
+      {
+        "position": "Cybersecurity Analyst",
+        "company": "Cyber Solutions",
+        "details": [
+          "Conducted security assessments and penetration tests for web applications and networks.",
+          "Assisted in incident response activities and forensic investigations.",
+          "Developed security policies and procedures based on industry best practices."
+        ],
+        "period": "June 2016 – September 2019 (4 years)",
+        "location": "Shanghai, China"
+      }
+    ],
+    "skills": [
+      "Strong expertise in ISO 27001 and TISAX",
+      "Knowledgeable about GDPR and international data protection laws",
+      "Proficient in risk management and incident handling",
+      "Fluent in Mandarin and English"
+    ]
+  }
+}

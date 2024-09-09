@@ -1,0 +1,37 @@
+{
+  "fileName": "Service Engineer 3.pdf",
+  "raw": "Martina Novak   Personal Information  Gender Female Age 29 Nationality Czech Location Vienna, Austria  Summary Proactive service engineer with a background in electrical engineering. Completed an apprenticeship program with a focus on calibration. Proficient in maintenance, calibration, and troubleshooting of measuring instruments. Strong problem-solving skills with a customer-centric approach.  Education  Apprenticeship in Electrical Engineering  Technical School  Vienna, Austria  Experience  Calibration Technician DEF Calibrations Ltd.  Conducted calibration activities for various measuring instruments.  Prepared calibration reports and documentation. September 2020 – Present (3 years) Vienna, Austria  Languages  English Fluent German Fluent",
+  "content": {
+    "name": "Martina Novak",
+    "role": "Service Engineer",
+    "status": "active",
+    "personal": {
+      "Gender": "Female",
+      "Age": "29",
+      "Nationality": "Czech",
+      "Location": "Vienna, Austria"
+    },
+    "education": [
+      "Apprenticeship in Electrical Engineering",
+      "Technical School",
+      "Vienna, Austria"
+    ],
+    "experience": [
+      {
+        "position": "Calibration Technician",
+        "company": "DEF Calibrations Ltd.",
+        "details": [
+          "Conducted calibration activities for various measuring instruments.",
+          "Prepared calibration reports and documentation."
+        ],
+        "period": "September 2020 – Present (3 years)",
+        "location": "Vienna, Austria"
+      },
+      {
+        "position": "Languages:",
+        "company": "German: Fluent"
+      }
+    ],
+    "skills": []
+  }
+}

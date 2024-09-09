@@ -1,0 +1,54 @@
+{
+  "fileName": "Program Manager 5.pdf",
+  "raw": "Clemens Riedl  Personal Information  Gender Male Age 28 Nationality German Location Graz, Austria  Education  Bachelor's in Business Administration University of Graz  Certifications   Certified Project Management Associate (CPMA)  Agile Certified Practitioner (ACP)  Microsoft Office Specialist (MOS)  Experience  Project Coordinator Drin Consulting  Supported project managers in organizing meetings, documenting project progress,  and managing project schedules.  Assisted in data analysis and report preparation for project stakeholders. January 2023 – Present (1 year) Graz, Austria  Administrative Assistant Unicorn  Handled administrative tasks, including scheduling appointments, managing emails,  and organizing files.  Developed strong organizational and time management skills in a fast-paced environment. June 2020 – June 2022 (2 years) Graz, Austria  Skills   Certified in project management and agile methodologies  Proficient in Microsoft Office Suite (Word, Excel, PowerPoint)  Strong organizational and time management abilities  Excellent communication and interpersonal skills  Ability to work effectively in a team environment",
+  "content": {
+    "name": "Clemens Riedl",
+    "role": "Program Manager",
+    "status": "active",
+    "personal": {
+      "Gender": "Male",
+      "Age": "28",
+      "Nationality": "German",
+      "Location": "Graz, Austria"
+    },
+    "education": [
+      "Bachelor's in Business Administration",
+      "University of Graz",
+      "Certifications:",
+      "• Certified Project Management Associate (CPMA)",
+      "• Agile Certified Practitioner (ACP)",
+      "• Microsoft Office Specialist (MOS)"
+    ],
+    "experience": [
+      {
+        "position": "Project Coordinator",
+        "company": "Drin Consulting",
+        "details": [
+          "Supported project managers in organizing meetings, documenting project progress,",
+          "and managing project schedules.",
+          "Assisted in data analysis and report preparation for project stakeholders."
+        ],
+        "period": "January 2023 – Present (1 year)",
+        "location": "Graz, Austria"
+      },
+      {
+        "position": "Administrative Assistant",
+        "company": "Unicorn",
+        "details": [
+          "Handled administrative tasks, including scheduling appointments, managing emails,",
+          "and organizing files.",
+          "Developed strong organizational and time management skills in a fast-paced environment."
+        ],
+        "period": "June 2020 – June 2022 (2 years)",
+        "location": "Graz, Austria"
+      }
+    ],
+    "skills": [
+      "Certified in project management and agile methodologies",
+      "Proficient in Microsoft Office Suite (Word, Excel, PowerPoint)",
+      "Strong organizational and time management abilities",
+      "Excellent communication and interpersonal skills",
+      "Ability to work effectively in a team environment"
+    ]
+  }
+}

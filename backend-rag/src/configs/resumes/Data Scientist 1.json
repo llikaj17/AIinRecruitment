@@ -1,0 +1,51 @@
+{
+  "fileName": "Data Scientist 1.pdf",
+  "raw": "Martin Leitner Personal Information  Gender Male Age 32 Nationality German Location Munich, Germany  Education  PhD in Computer Science Technical University of Munich, Germany  Experience  Data Scientist Data Automotive Technologies  Developed and implemented machine learning models for predictive maintenance and  anomaly detection in automotive systems.  Collaborated with cross-functional teams to identify business opportunities and drive  data-driven solutions. September 2020 – Present (3.5 years) Munich, Germany  Research Assistant Institute for Artificial Intelligence, Technical University of Munich  Conducted research in natural language processing and knowledge representation, with a  focus on semantic parsing and entity linking.  Published several papers in top-tier conferences and journals in the field of AI and machine learning. January 2018 – July 2020 (2.5 years) Munich, Germany  Skills   Proficient in Python, Spark, and Dask for scalable data processing  Strong background in machine learning and statistical modeling  Experience with open-source LLMs and natural language processing techniques  Excellent communication and leadership skills  Fluent in English and German",
+  "content": {
+    "name": "Martin Leitner",
+    "role": "Data Scientist",
+    "status": "active",
+    "personal": {
+      "Gender": "Male",
+      "Age": "32",
+      "Nationality": "German",
+      "Location": "Munich, Germany"
+    },
+    "education": [
+      "PhD in Computer Science",
+      "Technical University of Munich, Germany"
+    ],
+    "experience": [
+      {
+        "position": "Data Scientist",
+        "company": "Data Automotive Technologies",
+        "details": [
+          "Developed and implemented machine learning models for predictive maintenance and",
+          "anomaly detection in automotive systems.",
+          "Collaborated with cross-functional teams to identify business opportunities and drive",
+          "data-driven solutions."
+        ],
+        "period": "September 2020 – Present (3.5 years)",
+        "location": "Munich, Germany"
+      },
+      {
+        "position": "Research Assistant",
+        "company": "Institute for Artificial Intelligence, Technical University of Munich",
+        "details": [
+          "Conducted research in natural language processing and knowledge representation, with a",
+          "focus on semantic parsing and entity linking.",
+          "Published several papers in top-tier conferences and journals in the field of AI and machine learning."
+        ],
+        "period": "January 2018 – July 2020 (2.5 years)",
+        "location": "Munich, Germany"
+      }
+    ],
+    "skills": [
+      "Proficient in Python, Spark, and Dask for scalable data processing",
+      "Strong background in machine learning and statistical modeling",
+      "Experience with open-source LLMs and natural language processing techniques",
+      "Excellent communication and leadership skills",
+      "Fluent in English and German"
+    ]
+  }
+}

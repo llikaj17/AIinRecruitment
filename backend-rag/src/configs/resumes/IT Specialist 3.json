@@ -1,0 +1,50 @@
+{
+  "fileName": "IT Specialist 3.pdf",
+  "raw": "Pavel Sokolov  Personal Information  Gender Male Age 33 Nationality Russian Location Vienna, Austria  Education  Bachelor's degree in Computer Engineering Moscow State University, Russia  Experience  Network Engineer Polychord Solutions  Network troubleshooting and performance optimization.  Developed technical implementation concepts and workflows.  Technical support and network troubleshooting. January 2023 – Present (1 year) Vienna, Austria  Network Engineer ABC Networks, Moscow   Designed, implemented, and maintained network infrastructure for corporate clients.  Conducted network troubleshooting and performance optimization activities.  Collaborated with cross-functional teams to deliver network solutions aligned with business requirements.                       January 2018 – January 2023 (5 years)                       Moscow, Russia  Skills   Proficient in network infrastructure management  Experience with scripting and automation tools  Strong analytical and problem-solving abilities  Fluent in English, German, and Russian",
+  "content": {
+    "name": "Pavel Sokolov",
+    "role": "IT Infrastructure Specialist",
+    "status": "active",
+    "personal": {
+      "Gender": "Male",
+      "Age": "33",
+      "Nationality": "Russian",
+      "Location": "Vienna, Austria"
+    },
+    "education": [
+      "Bachelor's degree in Computer Engineering",
+      "Moscow State University, Russia"
+    ],
+    "experience": [
+      {
+        "position": "Network Engineer",
+        "company": "Polychord Solutions",
+        "details": [
+          "Network troubleshooting and performance optimization.",
+          "Developed technical implementation concepts and workflows.",
+          "Technical support and network troubleshooting."
+        ],
+        "period": "January 2023 – Present (1 year)",
+        "location": "Vienna, Austria"
+      },
+      {
+        "position": "Network Engineer",
+        "company": "ABC Networks, Moscow",
+        "details": [
+          "Designed, implemented, and maintained network infrastructure for corporate clients.",
+          "Conducted network troubleshooting and performance optimization activities.",
+          "Collaborated with cross-functional teams to deliver network solutions aligned with",
+          "business requirements."
+        ],
+        "period": "January 2018 – January 2023 (5 years)",
+        "location": "Moscow, Russia"
+      }
+    ],
+    "skills": [
+      "Proficient in network infrastructure management",
+      "Experience with scripting and automation tools",
+      "Strong analytical and problem-solving abilities",
+      "Fluent in English, German, and Russian"
+    ]
+  }
+}
