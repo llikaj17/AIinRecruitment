@@ -1,0 +1,42 @@
+{
+  "fileName": "System Lead 10.pdf",
+  "raw": "Vera Poltz  Personal Information  Gender Female Age 42 Nationality Austrian Location Graz, Austria  Education  Master's in Information Technology Graz University of Technology, Austria  Experience  Career Gap  Took a two-year break from full-time employment to focus on personal development  and caregiving responsibilities. April 2022 – Present (2 years)  Lead System Architect Boston Group Software Solutions  Led the design and implementation of complex software systems for enterprise clients.  Collaborated with cross-functional teams to ensure architectural integrity and scalability. January 2015 – March 2022 (7 years) Vienna, Austria  Software Developer Lite Tech Company  Developed and maintained software applications using various programming  languages and frameworks.  Participated in architectural discussions and contributed to design decisions. January 2012 – January 2015 (3 years) Vienna, Austria  Skills   Extensive experience in system architecture and software development  Proficiency in designing scalable and modular software solutions  Strong analytical and problem-solving abilities  Excellent communication and leadership skills  Fluent in English and German",
+  "content": {
+    "name": "Vera Poltz",
+    "role": "Lead System & Enterprise Architect for Software Portfolio",
+    "status": "active",
+    "personal": {
+      "Gender": "Female",
+      "Age": "42",
+      "Nationality": "Austrian",
+      "Location": "Graz, Austria"
+    },
+    "education": [
+      "Master's in Information Technology",
+      "Graz University of Technology, Austria"
+    ],
+    "experience": [
+      {
+        "position": "Career Gap",
+        "details": [
+          "Took a two-year break from full-time employment to focus on personal development",
+          "and caregiving responsibilities.",
+          "Led the design and implementation of complex software systems for enterprise clients.",
+          "Collaborated with cross-functional teams to ensure architectural integrity and scalability.",
+          "Developed and maintained software applications using various programming",
+          "languages and frameworks.",
+          "Participated in architectural discussions and contributed to design decisions."
+        ],
+        "period": "April 2022 – Present (2 years)",
+        "location": "Lead System Architect"
+      }
+    ],
+    "skills": [
+      "Extensive experience in system architecture and software development",
+      "Proficiency in designing scalable and modular software solutions",
+      "Strong analytical and problem-solving abilities",
+      "Excellent communication and leadership skills",
+      "Fluent in English and German"
+    ]
+  }
+}

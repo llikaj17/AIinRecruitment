@@ -1,0 +1,47 @@
+{
+  "fileName": "System Lead 1.pdf",
+  "raw": "Sophia Chang  Personal Information  Gender Female Age 42 Nationality Taiwanese Location Vienna, Austria  Education  Master's degree in Computer Science Vienna University of Technology, Austria  Experience  Lead System Architect Brand Tech Solutions  Led architectural design and development efforts for enterprise-level software solutions.  Collaborated with cross-functional teams to ensure alignment with business objectives. January 2019 – Present (5 years) Vienna, Austria  Software Engineer Dajtas Software GmbH  Developed scalable and modular software solutions using agile methodologies.  Implemented DevOps practices to improve software delivery and deployment processes. June 2010 – June 2018 (8 years) Taiwan  Skills   Strong background in software product development and architecture  Extensive experience in SaaS, DevOps, and automation  Proficient in English and German  Excellent leadership and communication skills",
+  "content": {
+    "name": "SophiaChang",
+    "role": "Lead System & Enterprise Architect for Software Portfolio",
+    "status": "active",
+    "personal": {
+      "Gender": "Female",
+      "Age": "42",
+      "Nationality": "Taiwanese",
+      "Location": "Vienna, Austria"
+    },
+    "education": [
+      "Master's degree in Computer Science",
+      "Vienna University of Technology, Austria"
+    ],
+    "experience": [
+      {
+        "position": "Lead System Architect",
+        "company": "Brand Tech Solutions",
+        "details": [
+          "Led architectural design and development efforts for enterprise-level software solutions.",
+          "Collaborated with cross-functional teams to ensure alignment with business objectives."
+        ],
+        "period": "January 2019 – Present (5 years)",
+        "location": "Vienna, Austria"
+      },
+      {
+        "position": "Software Engineer",
+        "company": "Dajtas Software GmbH",
+        "details": [
+          "Developed scalable and modular software solutions using agile methodologies.",
+          "Implemented DevOps practices to improve software delivery and deployment processes."
+        ],
+        "period": "June 2010 – June 2018 (8 years)",
+        "location": "Taiwan"
+      }
+    ],
+    "skills": [
+      "Strong background in software product development and architecture",
+      "Extensive experience in SaaS, DevOps, and automation",
+      "Proficient in English and German",
+      "Excellent leadership and communication skills"
+    ]
+  }
+}

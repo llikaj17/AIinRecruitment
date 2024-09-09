@@ -1,0 +1,47 @@
+{
+  "fileName": "System Lead 5.pdf",
+  "raw": "Maria Lupez  Personal Information  Gender Female Age 40 Nationality Spanish Location Barcelona, Spain  Education  Master's in Business Administration University of Barcelona, Spain  Experience  Business Analyst and Consultant Meltin Consulting Group  Analyzed business processes and identified areas for improvement through technology solutions.  Collaborated with IT teams to translate business requirements into technical specifications. April 2019 – Present (5 years) Barcelona, Spain  Project Manager Auto Manufacturing  Led cross-functional teams to implement ERP solutions and streamline business operations.  Managed project timelines, budgets, and resources to ensure successful project delivery. January 2016 – January 2019 (3 years) Madrid, Spain  Skills   Strong analytical and problem-solving skills developed in business analysis roles  Project management experience with a focus on delivering IT solutions  Excellent communication and stakeholder management skills  Proficient in English and Spanish",
+  "content": {
+    "name": "Maria Lupez",
+    "role": "Lead System & Enterprise Architect for Software Portfolio",
+    "status": "active",
+    "personal": {
+      "Gender": "Female",
+      "Age": "40",
+      "Nationality": "Spanish",
+      "Location": "Barcelona, Spain"
+    },
+    "education": [
+      "Master's in Business Administration",
+      "University of Barcelona, Spain"
+    ],
+    "experience": [
+      {
+        "position": "Business Analyst and Consultant",
+        "company": "Meltin Consulting Group",
+        "details": [
+          "Analyzed business processes and identified areas for improvement through technology solutions.",
+          "Collaborated with IT teams to translate business requirements into technical specifications."
+        ],
+        "period": "April 2019 – Present (5 years)",
+        "location": "Barcelona, Spain"
+      },
+      {
+        "position": "Project Manager",
+        "company": "Auto Manufacturing",
+        "details": [
+          "Led cross-functional teams to implement ERP solutions and streamline business operations.",
+          "Managed project timelines, budgets, and resources to ensure successful project delivery."
+        ],
+        "period": "January 2016 – January 2019 (3 years)",
+        "location": "Madrid, Spain"
+      }
+    ],
+    "skills": [
+      "Strong analytical and problem-solving skills developed in business analysis roles",
+      "Project management experience with a focus on delivering IT solutions",
+      "Excellent communication and stakeholder management skills",
+      "Proficient in English and Spanish"
+    ]
+  }
+}

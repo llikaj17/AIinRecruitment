@@ -1,0 +1,48 @@
+{
+  "fileName": "System Lead 2.pdf",
+  "raw": "Ahmed Bolbol  Personal Information  Gender Male Age 38 Nationality Emirati Location Abu Dhabi (willingness to relocate to Austria)  Education  Bachelor's degree in Information Technology Khalifa University, UAE  Experience  Enterprise Architect Cardo Technology Group  Designed and implemented enterprise architecture solutions to support digital  transformation initiatives.  Led architecture reviews and provided technical guidance to development teams. February 2018 – Present (6 years) Abu Dhabi  Solution Architect GHI Systems  Developed architecture blueprints and technical design documents for complex software systems.  Implemented event-driven architectures to enhance system scalability and flexibility. January 2014 – January 2018 (4 years) Dubai  Skills   Proficient in SaaS, MASA/SOA, and Event-Driven Architectures  Experience in international environments and agile software development  Fluent in English, with basic knowledge of German  Strong analytical and problem-solving skills",
+  "content": {
+    "name": "Ahmed Bolbol",
+    "role": "Lead System & Enterprise Architect for Software Portfolio",
+    "status": "active",
+    "personal": {
+      "Gender": "Male",
+      "Age": "38",
+      "Nationality": "Emirati",
+      "Location": "Abu Dhabi (willingness to relocate to Austria)"
+    },
+    "education": [
+      "Bachelor's degree in Information Technology",
+      "Khalifa University, UAE"
+    ],
+    "experience": [
+      {
+        "position": "Enterprise Architect",
+        "company": "Cardo Technology Group",
+        "details": [
+          "Designed and implemented enterprise architecture solutions to support digital",
+          "transformation initiatives.",
+          "Led architecture reviews and provided technical guidance to development teams."
+        ],
+        "period": "February 2018 – Present (6 years)",
+        "location": "Abu Dhabi"
+      },
+      {
+        "position": "Solution Architect",
+        "company": "GHI Systems",
+        "details": [
+          "Developed architecture blueprints and technical design documents for complex software systems.",
+          "Implemented event-driven architectures to enhance system scalability and flexibility."
+        ],
+        "period": "January 2014 – January 2018 (4 years)",
+        "location": "Dubai"
+      }
+    ],
+    "skills": [
+      "Proficient in SaaS, MASA/SOA, and Event-Driven Architectures",
+      "Experience in international environments and agile software development",
+      "Fluent in English, with basic knowledge of German",
+      "Strong analytical and problem-solving skills"
+    ]
+  }
+}
