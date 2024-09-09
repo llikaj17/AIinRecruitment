@@ -1,0 +1,34 @@
+{
+  "fileName": "Project Plant Engineer 9.pdf",
+  "raw": "T o m a s S c h m i d t  Personal Information  Gender Male Age 29 Nationality German Location Linz, Austria  Summary Driven engineer with a background in mechanical engineering. Graduated with a degree in mechanical engineering. Skilled in CAD design and technical drawing. Proficient in English and German.  Education  Bachelor's degree in Mechanical Engineering Linz University of Technology, Austria  Experience  CAD Technician ABC Engineering Firm  Created technical drawings and designs using CAD software.  Assisted in project documentation and coordination. September 2020 – Present (4 years) Linz, Austria  Languages English Fluent German Native",
+  "content": {
+    "name": "TomasSchmidt",
+    "personal": {
+      "Gender": "Male",
+      "Age": "29",
+      "Nationality": "German",
+      "Location": "Linz, Austria"
+    },
+    "education": [
+      "Bachelor's degree in Mechanical Engineering",
+      "Linz University of Technology, Austria"
+    ],
+    "experience": [
+      {
+        "position": "CAD Technician",
+        "company": "ABC Engineering Firm",
+        "details": [
+          "Created technical drawings and designs using CAD software.",
+          "Assisted in project documentation and coordination."
+        ],
+        "period": "September 2020 – Present (4 years)",
+        "location": "Linz, Austria"
+      },
+      {
+        "position": "Languages:",
+        "company": "German: Native"
+      }
+    ],
+    "skills": []
+  }
+}

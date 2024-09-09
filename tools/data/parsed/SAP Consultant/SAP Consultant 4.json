@@ -1,0 +1,44 @@
+{
+  "fileName": "SAP Consultant 4.pdf",
+  "raw": "C h e n L i n  Personal Information  Gender Male Age 39 Nationality Chinese Location Salzburg, Austria  Summary Seasoned SAP consultant with a background in IT technology. Graduated with a degree in computer science. Extensive experience in SAP customization, particularly in SAP SD and QM modules. Strong technical skills with knowledge of SAP ABAP.  Education  Bachelor's degree in Computer Science Graz University of Technology, Austria  Experience  Senior SAP Consultant SAP IT Solutions  Led technical lead roles for SAP SD and QM modules, providing expertise and guidance to project teams.  Implemented SAP projects and provided 3rd level support for SAP systems. November 2015 – Present (8 years) Salzburg, Austria  IT Specialist China Technology Company  Developed software solutions and provided technical support for IT infrastructure. January 2010 – October 2015 (5 years) Beijing, China  Languages  English Fluent German Intermediate Chinese Native",
+  "content": {
+    "name": "ChenLin",
+    "personal": {
+      "Gender": "Male",
+      "Age": "39",
+      "Nationality": "Chinese",
+      "Location": "Salzburg, Austria"
+    },
+    "education": [
+      "Bachelor's degree in Computer Science",
+      "Graz University of Technology, Austria"
+    ],
+    "experience": [
+      {
+        "position": "Senior SAP Consultant",
+        "company": "SAP IT Solutions",
+        "details": [
+          "Led technical lead roles for SAP SD and QM modules, providing expertise and guidance to project",
+          "teams.",
+          "Implemented SAP projects and provided 3rd level support for SAP systems."
+        ],
+        "period": "November 2015 – Present (8 years)",
+        "location": "Salzburg, Austria"
+      },
+      {
+        "position": "IT Specialist",
+        "company": "China Technology Company",
+        "details": [
+          "Developed software solutions and provided technical support for IT infrastructure."
+        ],
+        "period": "January 2010 – October 2015 (5 years)",
+        "location": "Beijing, China"
+      },
+      {
+        "position": "Languages:",
+        "company": "Chinese: Native"
+      }
+    ],
+    "skills": []
+  }
+}

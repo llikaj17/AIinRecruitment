@@ -1,0 +1,77 @@
+{
+  "fileName": "Data Scientist 9.pdf",
+  "raw": "B o r a G a r c i a  Personal Information  Gender Female Age 30 Nationality Spanish Location Vienna, Austria  Education  Master's in Data Science Technical University of Madrid, Spain  Experience  Data Scientist Analytics Solutions GmbH  Developed machine learning models for predictive maintenance in manufacturing plants,  reducing downtime by 15%.  Collaborated with cross-functional teams to deploy data-driven solutions and integrate  predictive analytics into existing workflows. January 2023 – Present (1 year) Vienna, Austria  Data Analyst Tech Innovations Ltd.  Analyzed customer behavior and market trends to identify opportunities for product optimization and revenue growth.  Created dashboards and reports to track key performance indicators (KPIs) and provide  actionable insights to stakeholders. January 2022 – January 2023 (1 year) Munich, Germany  Business Intelligence Consultant  Data Insights GmbH  Designed and implemented data warehousing solutions for clients in various industries, including retail and finance.  Conducted data profiling and cleansing activities to ensure data quality and accuracy for reporting and analytics purposes. September 2020 – January 2022 (1.2 years) Munich, Germany    Junior Data Scientist Advanced Analytics Corp.  Participated in data science projects, including predictive modeling and customer segmentation,  using Python and R.  Assisted in the development of machine learning algorithms and evaluated model performance  using metrics such as accuracy and precision. January 2018 – June 2020 (1.5 years) Barcelona, Spain  Skills   Proficient in Python, R, SQL, and data visualization tools like Tableau and Power BI  Experience with machine learning techniques, including regression, classification, and clustering  Strong  analytical  and  problem-solving  skills,  with  a  focus  on  translating  data  insights  into  actionable recommendations  Excellent  communication  and  presentation  abilities,  with  experience  in  conveying  complex  technical concepts to non-technical stakeholders  Adaptability   and   willingness   to   learn,   with   a   track   record   of   quickly   acquiring   new   skills   and technologies",
+  "content": {
+    "name": "BoraGarcia",
+    "personal": {
+      "Gender": "Female",
+      "Age": "30",
+      "Nationality": "Spanish",
+      "Location": "Vienna, Austria"
+    },
+    "education": [
+      "Master's in Data Science",
+      "Technical University of Madrid, Spain"
+    ],
+    "experience": [
+      {
+        "position": "Data Scientist",
+        "company": "Analytics Solutions GmbH",
+        "details": [
+          "Developed machine learning models for predictive maintenance in manufacturing plants,",
+          "reducing downtime by 15%.",
+          "Collaborated with cross-functional teams to deploy data-driven solutions and integrate",
+          "predictive analytics into existing workflows."
+        ],
+        "period": "January 2023 – Present (1 year)",
+        "location": "Vienna, Austria"
+      },
+      {
+        "position": "Data Analyst",
+        "company": "Tech Innovations Ltd.",
+        "details": [
+          "Analyzed customer behavior and market trends to identify opportunities for product optimization",
+          "and revenue growth.",
+          "Created dashboards and reports to track key performance indicators (KPIs) and provide",
+          "actionable insights to stakeholders."
+        ],
+        "period": "January 2022 – January 2023 (1 year)",
+        "location": "Munich, Germany"
+      },
+      {
+        "position": "Business Intelligence Consultant",
+        "company": "Data Insights GmbH",
+        "details": [
+          "Designed and implemented data warehousing solutions for clients in various industries, including retail",
+          "and finance.",
+          "Conducted data profiling and cleansing activities to ensure data quality and accuracy for reporting and",
+          "analytics purposes."
+        ],
+        "period": "September 2020 – January 2022 (1.2 years)",
+        "location": "Munich, Germany"
+      },
+      {
+        "position": "Junior Data Scientist",
+        "company": "Advanced Analytics Corp.",
+        "details": [
+          "Participated in data science projects, including predictive modeling and customer segmentation,",
+          "using Python and R.",
+          "Assisted in the development of machine learning algorithms and evaluated model performance",
+          "using metrics such as accuracy and precision."
+        ],
+        "period": "January 2018 – June 2020 (1.5 years)",
+        "location": "Barcelona, Spain"
+      }
+    ],
+    "skills": [
+      "Proficient in Python, R, SQL, and data visualization tools like Tableau and Power BI",
+      "Experience with machine learning techniques, including regression, classification, and clustering",
+      "Strong  analytical  and  problem-solving  skills,  with  a  focus  on  translating  data  insights  into  actionable",
+      "recommendations",
+      "Excellent  communication  and  presentation  abilities,  with  experience  in  conveying  complex  technical",
+      "concepts to non-technical stakeholders",
+      "Adaptability   and   willingness   to   learn,   with   a   track   record   of   quickly   acquiring   new   skills   and",
+      "technologies"
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "fileName": "Sales Manager 3.pdf",
+  "raw": "G i u l i a R o s s i  Personal Information  Gender Female Age 40 Nationality Italian Location Milan, Italy (willing to relocate to Graz, Austria)  Education  Bachelor's degree in Electrical Engineering University of Rome, Italy  Experience  Sales Manager Drin Technology Solutions  Developed and implemented sales strategies to expand the company's market presence.  Managed a team of sales representatives and provided training and guidance. January 2023 – Present (1 year) Milan, Italy  Business Development Manager ABC Engineering GmbH  Identified new business opportunities and established partnerships with key clients.  Negotiated contracts and agreements to drive revenue growth. January 2021 – December 2023 (2 years) Munich, Germany  Regional Sales Director DEF Solutions  Led the sales team in the DACH region and exceeded sales targets.  Developed relationships with clients in the automotive and manufacturing sectors. June 2019 – June 2020 (1 year) Zurich, Switzerland  Key Account Manager GHI Corporation  Managed key client accounts and maintained strong relationships with stakeholders.  Collaborated with cross-functional teams to deliver solutions that met clients' needs. January 2016 – January 2018 (2 years) Graz, Austria   Skills   6 years of experience in technical B2B sales and business development  Proven ability to adapt quickly to new environments and deliver results  Strong communication and negotiation skills  Fluent in Italian, English, and German",
+  "content": {
+    "name": "GiuliaRossi",
+    "personal": {
+      "Gender": "Female",
+      "Age": "40",
+      "Nationality": "Italian",
+      "Location": "Milan, Italy (willing to relocate to Graz, Austria)"
+    },
+    "education": [
+      "Bachelor's degree in Electrical Engineering",
+      "University of Rome, Italy"
+    ],
+    "experience": [
+      {
+        "position": "Sales Manager",
+        "company": "Drin Technology Solutions",
+        "details": [
+          "Developed and implemented sales strategies to expand the company's market presence.",
+          "Managed a team of sales representatives and provided training and guidance."
+        ],
+        "period": "January 2023 – Present (1 year)",
+        "location": "Milan, Italy"
+      },
+      {
+        "position": "Business Development Manager",
+        "company": "ABC Engineering GmbH",
+        "details": [
+          "Identified new business opportunities and established partnerships with key clients.",
+          "Negotiated contracts and agreements to drive revenue growth."
+        ],
+        "period": "January 2021 – December 2023 (2 years)",
+        "location": "Munich, Germany"
+      },
+      {
+        "position": "Regional Sales Director",
+        "company": "DEF Solutions",
+        "details": [
+          "Led the sales team in the DACH region and exceeded sales targets.",
+          "Developed relationships with clients in the automotive and manufacturing sectors."
+        ],
+        "period": "June 2019 – June 2020 (1 year)",
+        "location": "Zurich, Switzerland"
+      },
+      {
+        "position": "Key Account Manager",
+        "company": "GHI Corporation",
+        "details": [
+          "Managed key client accounts and maintained strong relationships with stakeholders.",
+          "Collaborated with cross-functional teams to deliver solutions that met clients' needs."
+        ],
+        "period": "January 2016 – January 2018 (2 years)",
+        "location": "Graz, Austria"
+      }
+    ],
+    "skills": [
+      "6 years of experience in technical B2B sales and business development",
+      "Proven ability to adapt quickly to new environments and deliver results",
+      "Strong communication and negotiation skills",
+      "Fluent in Italian, English, and German"
+    ]
+  }
+}

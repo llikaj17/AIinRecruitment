@@ -1,0 +1,36 @@
+{
+  "fileName": "Service Engineer 11.pdf",
+  "raw": "A h m e d H a s s a n  Personal Information  Gender Male Age 33 Nationality Egyptian Location Vienna, Austria  Summary Detail-oriented engineer with a background in software development, now transitioning into service engineering. Graduated with a degree in computer science and currently pursuing additional training in electrical engineering. Skilled in problem-solving and communication. Eager to apply technical skills to analytical measuring systems.  Education  Bachelor's degree in Computer Science Vienna University of Technology Austria  Currently pursuing a diploma in Electrical Engineering, Online Program  Experience  Software Developer XYZ Software Solutions  Developed and maintained software applications for various industries.  Collaborated with cross-functional teams to deliver projects on time. January 2018 – Present (6 Years) Vienna, Austria  Languages  English Fluent German Intermediate Arabic Native",
+  "content": {
+    "name": "AhmedHassan",
+    "personal": {
+      "Gender": "Male",
+      "Age": "33",
+      "Nationality": "Egyptian",
+      "Location": "Vienna, Austria"
+    },
+    "education": [
+      "Bachelor's degree in Computer Science",
+      "Vienna University of Technology",
+      "Austria",
+      "Currently pursuing a diploma in Electrical Engineering, Online Program"
+    ],
+    "experience": [
+      {
+        "position": "Software Developer",
+        "company": "XYZ Software Solutions",
+        "details": [
+          "Developed and maintained software applications for various industries.",
+          "Collaborated with cross-functional teams to deliver projects on time."
+        ],
+        "period": "January 2018 – Present (6 Years)",
+        "location": "Vienna, Austria"
+      },
+      {
+        "position": "Languages:",
+        "company": "Arabic: Native"
+      }
+    ],
+    "skills": []
+  }
+}

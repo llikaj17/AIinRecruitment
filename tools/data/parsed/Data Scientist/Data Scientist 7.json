@@ -1,0 +1,48 @@
+{
+  "fileName": "Data Scientist 7.pdf",
+  "raw": "L u c a s   C a r b o n e  Personal Information  Gender Male Age 36 Nationality Italian Location Milan, Italy  Education  Master's in Computer Engineering Politecnico di Milano, Italy  Experience  Data Scientist XYZ Energy Solutions  Developed predictive models for energy consumption forecasting and optimization of  renewable energy sources.  Analyzed smart meter data to identify energy usage patterns and recommend efficiency measures. January 2019 – Present (5 years) Milan, Italy  Software Engineer ABC Technology Company  Developed software solutions for data analysis and visualization in various industries, including  finance and healthcare.  Collaborated with clients to understand their requirements and deliver customized solutions. January 2015 – September 2018 (2.5 years) Rome, Italy  Skills   Proficiency in Python, MATLAB, and SQL for data analysis and modeling  Strong background in machine learning and optimization techniques  Experience with big data technologies like Apache Hadoop and Apache Spark  Excellent problem-solving and analytical skills  Fluent in English and Italian",
+  "content": {
+    "name": "LucasCarbone",
+    "personal": {
+      "Gender": "Male",
+      "Age": "36",
+      "Nationality": "Italian",
+      "Location": "Milan, Italy"
+    },
+    "education": [
+      "Master's in Computer Engineering",
+      "Politecnico di Milano, Italy"
+    ],
+    "experience": [
+      {
+        "position": "Data Scientist",
+        "company": "XYZ Energy Solutions",
+        "details": [
+          "Developed predictive models for energy consumption forecasting and optimization of",
+          "renewable energy sources.",
+          "Analyzed smart meter data to identify energy usage patterns and recommend efficiency measures."
+        ],
+        "period": "January 2019 – Present (5 years)",
+        "location": "Milan, Italy"
+      },
+      {
+        "position": "Software Engineer",
+        "company": "ABC Technology Company",
+        "details": [
+          "Developed software solutions for data analysis and visualization in various industries, including",
+          "finance and healthcare.",
+          "Collaborated with clients to understand their requirements and deliver customized solutions."
+        ],
+        "period": "January 2015 – September 2018 (2.5 years)",
+        "location": "Rome, Italy"
+      }
+    ],
+    "skills": [
+      "Proficiency in Python, MATLAB, and SQL for data analysis and modeling",
+      "Strong background in machine learning and optimization techniques",
+      "Experience with big data technologies like Apache Hadoop and Apache Spark",
+      "Excellent problem-solving and analytical skills",
+      "Fluent in English and Italian"
+    ]
+  }
+}

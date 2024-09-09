@@ -1,0 +1,45 @@
+{
+  "fileName": "IT Specialist 7.pdf",
+  "raw": "T h o m a s J a g s c h  Personal Information  Gender Male Age 34 Nationality Austrian Location Graz, Austria  Education  Bachelor's degree in Computer Science University of Graz, Austria  Experience  Systems Administrator TU Graz  Managed IT infrastructure and provided technical support to end-users.  Assisted in the setup and administration of Jira and Confluence systems. January 2023 – Present (1 year) Graz, Austria  IT Support Specialist Young IT Services, Salzburg (1 year)  Provided technical support and resolved IT-related issues for clients.  Assisted in the administration of IT systems and applications. March 2020 – June 2022 (2 years) Salzburg, Austria  Skills  Proficient in IT infrastructure management  Experience with Jira and Confluence administration  Strong analytical and problem-solving skills  Excellent communication and teamwork abilities",
+  "content": {
+    "name": "ThomasJagsch",
+    "personal": {
+      "Gender": "Male",
+      "Age": "34",
+      "Nationality": "Austrian",
+      "Location": "Graz, Austria"
+    },
+    "education": [
+      "Bachelor's degree in Computer Science",
+      "University of Graz, Austria"
+    ],
+    "experience": [
+      {
+        "position": "Systems Administrator",
+        "company": "TU Graz",
+        "details": [
+          "Managed IT infrastructure and provided technical support to end-users.",
+          "Assisted in the setup and administration of Jira and Confluence systems."
+        ],
+        "period": "January 2023 – Present (1 year)",
+        "location": "Graz, Austria"
+      },
+      {
+        "position": "IT Support Specialist",
+        "company": "Young IT Services, Salzburg (1 year)",
+        "details": [
+          "Provided technical support and resolved IT-related issues for clients.",
+          "Assisted in the administration of IT systems and applications."
+        ],
+        "period": "March 2020 – June 2022 (2 years)",
+        "location": "Salzburg, Austria"
+      }
+    ],
+    "skills": [
+      "Proficient in IT infrastructure management",
+      "Experience with Jira and Confluence administration",
+      "Strong analytical and problem-solving skills",
+      "Excellent communication and teamwork abilities"
+    ]
+  }
+}

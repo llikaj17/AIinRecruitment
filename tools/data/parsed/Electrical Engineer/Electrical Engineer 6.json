@@ -1,0 +1,48 @@
+{
+  "fileName": "Electrical Engineer 6.pdf",
+  "raw": "An d r a B e n a l i  Personal Information  Gender Female Age 40 Nationality Moroccan Location Rabat, Morocco  Summary Seasoned electrical engineer with over 20 years of experience in conceptualizing and designing industrial electrical systems. Proven track record in technical sales and project management. Skilled in collaborating with cross-functional teams to deliver customized solutions. Fluent in English, French, and Arabic.  Education  Master's degree in Electrical Engineering Mohammed V University, Rabat, Morocco  Experience  Senior Electrical Engineer Solution Engineering Services  Led the conceptualization and design of electrical systems for various industrial applications, ensuring technical feasibility and compliance with standards.  Managed large-scale projects from conception to completion, coordinating activities across multiple teams. September 2010 – Present (14 years) Rabat, Morocco  Technical Sales Manager DEF Solutions Ltd.   Developed and implemented strategic sales plans to expand the company's market presence in the region.  Provided technical support to sales teams and collaborated with customers to deliver tailored solutions. January 2004 – September 2010 (6 years) Casablanca, Morocco  Languages  English Fluent French Fluent Arabic Native",
+  "content": {
+    "name": "AndraBenali",
+    "personal": {
+      "Gender": "Female",
+      "Age": "40",
+      "Nationality": "Moroccan",
+      "Location": "Rabat, Morocco"
+    },
+    "education": [
+      "Master's degree in Electrical Engineering",
+      "Mohammed V University, Rabat, Morocco"
+    ],
+    "experience": [
+      {
+        "position": "Senior Electrical Engineer",
+        "company": "Solution Engineering Services",
+        "details": [
+          "Led the conceptualization and design of electrical systems for various industrial applications, ensuring",
+          "technical feasibility and compliance with standards.",
+          "Managed large-scale projects from conception to completion, coordinating activities across multiple",
+          "teams."
+        ],
+        "period": "September 2010 – Present (14 years)",
+        "location": "Rabat, Morocco"
+      },
+      {
+        "position": "Technical Sales Manager",
+        "company": "DEF Solutions Ltd.",
+        "details": [
+          "Developed and implemented strategic sales plans to expand the company's market presence in the",
+          "region.",
+          "Provided technical support to sales teams and collaborated with customers to deliver tailored",
+          "solutions."
+        ],
+        "period": "January 2004 – September 2010 (6 years)",
+        "location": "Casablanca, Morocco"
+      },
+      {
+        "position": "Languages:",
+        "company": "Arabic: Native"
+      }
+    ],
+    "skills": []
+  }
+}

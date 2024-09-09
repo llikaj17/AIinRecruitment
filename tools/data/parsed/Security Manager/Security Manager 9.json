@@ -1,0 +1,41 @@
+{
+  "fileName": "Security Manager 9.pdf",
+  "raw": "M a r kon N o v a  Personal Information  Gender Male Age 42 Nationality Slovenian Location Ljubljana, Slovenia (willing to relocate to Graz, Austria)  Education  Master's degree in Computer Science University of Ljubljana, Slovenia  Certifications   Certified Information Systems Security Professional (CISSP)  Certified Information Security Manager (CISM)  ISO 27001 Lead Auditor  Experience  Chief Information Security Officer (CISO) Plant Technology Solutions  Directed all aspects of the company's information security program, including policy  development, compliance, and incident response.  Successfully led the organization to achieve ISO 27001 certification.  Managed a team of cybersecurity professionals and oversaw security operations. January 2010 – Present (14 years) Ljubjana, Slovenia  Skills   Extensive experience in information security management  Strong expertise in ISO 27001, GDPR, and other regulatory frameworks  Excellent leadership and project management skills  Fluent in Slovenian, English, and German (basic proficiency)",
+  "content": {
+    "name": "MarkonNova",
+    "personal": {
+      "Gender": "Male",
+      "Age": "42",
+      "Nationality": "Slovenian",
+      "Location": "Ljubljana, Slovenia (willing to relocate to Graz, Austria)"
+    },
+    "education": [
+      "Master's degree in Computer Science",
+      "University of Ljubljana, Slovenia",
+      "Certifications:",
+      "• Certified Information Systems Security Professional (CISSP)",
+      "• Certified Information Security Manager (CISM)",
+      "• ISO 27001 Lead Auditor"
+    ],
+    "experience": [
+      {
+        "position": "Chief Information Security Officer (CISO)",
+        "company": "Plant Technology Solutions",
+        "details": [
+          "Directed all aspects of the company's information security program, including policy",
+          "development, compliance, and incident response.",
+          "Successfully led the organization to achieve ISO 27001 certification.",
+          "Managed a team of cybersecurity professionals and oversaw security operations."
+        ],
+        "period": "January 2010 – Present (14 years)",
+        "location": "Ljubjana, Slovenia"
+      }
+    ],
+    "skills": [
+      "Extensive experience in information security management",
+      "Strong expertise in ISO 27001, GDPR, and other regulatory frameworks",
+      "Excellent leadership and project management skills",
+      "Fluent in Slovenian, English, and German (basic proficiency)"
+    ]
+  }
+}

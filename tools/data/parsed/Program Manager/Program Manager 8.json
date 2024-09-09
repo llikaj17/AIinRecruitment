@@ -1,0 +1,63 @@
+{
+  "fileName": "Program Manager 8.pdf",
+  "raw": "E l e n a P a tel  Personal Information  Gender Female Age 38 Nationality British Location London, UK  Education  Master's in Business Administration London Business School, UK  Experience  Program Manager XYZ Technology Solutions, London (3 years)  Led cross-functional teams in the development and implementation of large-scale IT projects  for clients in the financial services sector.  Managed project budgets, schedules, and resources to ensure successful delivery within scope  and quality standards. January 2021 – Present (3 years) London, UK  Project Manager ABC Healthcare Innovations  Oversaw the planning and execution of healthcare IT projects, including electronic health  record implementations and telemedicine initiatives.  Collaborated with healthcare providers and IT teams to define project requirements and  deliver solutions that improve patient care and operational efficiency. January 2019 - January 2021 (2 years) Edinburgh  Senior Consultant DEF Management Consulting  Provided strategic advisory services to clients in various industries, specializing in  digital transformation, organizational change, and process optimization.  Led project teams in conducting research, analyzing data, and developing recommendations  to address client challenges and achieve business objectives. January 2015 – January 2019 (4 years) Dublin    Skills   Program and project management  Stakeholder engagement and relationship management  Strategic planning and execution  Change management and organizational development  Problem-solving and decision-making  Excellent communication and presentation skills",
+  "content": {
+    "name": "ElenaPatel",
+    "personal": {
+      "Gender": "Female",
+      "Age": "38",
+      "Nationality": "British",
+      "Location": "London, UK"
+    },
+    "education": [
+      "Master's in Business Administration",
+      "London Business School, UK"
+    ],
+    "experience": [
+      {
+        "position": "Program Manager",
+        "company": "XYZ Technology Solutions, London (3 years)",
+        "details": [
+          "Led cross-functional teams in the development and implementation of large-scale IT projects",
+          "for clients in the financial services sector.",
+          "Managed project budgets, schedules, and resources to ensure successful delivery within scope",
+          "and quality standards."
+        ],
+        "period": "January 2021 – Present (3 years)",
+        "location": "London, UK"
+      },
+      {
+        "position": "Project Manager",
+        "company": "ABC Healthcare Innovations",
+        "details": [
+          "Oversaw the planning and execution of healthcare IT projects, including electronic health",
+          "record implementations and telemedicine initiatives.",
+          "Collaborated with healthcare providers and IT teams to define project requirements and",
+          "deliver solutions that improve patient care and operational efficiency."
+        ],
+        "period": "January 2019 - January 2021 (2 years)",
+        "location": "Edinburgh"
+      },
+      {
+        "position": "Senior Consultant",
+        "company": "DEF Management Consulting",
+        "details": [
+          "Provided strategic advisory services to clients in various industries, specializing in",
+          "digital transformation, organizational change, and process optimization.",
+          "Led project teams in conducting research, analyzing data, and developing recommendations",
+          "to address client challenges and achieve business objectives."
+        ],
+        "period": "January 2015 – January 2019 (4 years)",
+        "location": "Dublin"
+      }
+    ],
+    "skills": [
+      "Program and project management",
+      "Stakeholder engagement and relationship management",
+      "Strategic planning and execution",
+      "Change management and organizational development",
+      "Problem-solving and decision-making",
+      "Excellent communication and presentation skills"
+    ]
+  }
+}

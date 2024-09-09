@@ -1,0 +1,38 @@
+{
+  "fileName": "IT Specialist 5.pdf",
+  "raw": "G u l b e n i z A l i  Personal Information  Gender Female Age 28 Nationality Turkish Location Vienna, Austria  Education  Bachelor's degree in Electrical Engineering Istanbul Technical University, Turkey  Experience  System Administrator Marmara Solutions  Managed Windows and Linux server environments, ensuring system availability and performance.  Implemented backup and disaster recovery solutions to safeguard critical data.  Provided technical support to end-users and resolved IT-related issues.  General knowledge of Jira and Confluence. January 2020 – Present (4 years) Instanbul, Turkey  Skills   Experience in system administration and IT infrastructure management  Familiarity with scripting languages like Bash and PowerShell  Strong troubleshooting and problem-solving skills  Fluent in English and Turkish  German Beginner",
+  "content": {
+    "name": "GulbenizAli",
+    "personal": {
+      "Gender": "Female",
+      "Age": "28",
+      "Nationality": "Turkish",
+      "Location": "Vienna, Austria"
+    },
+    "education": [
+      "Bachelor's degree in Electrical Engineering",
+      "Istanbul Technical University, Turkey"
+    ],
+    "experience": [
+      {
+        "position": "System Administrator",
+        "company": "Marmara Solutions",
+        "details": [
+          "Managed Windows and Linux server environments, ensuring system availability and performance.",
+          "Implemented backup and disaster recovery solutions to safeguard critical data.",
+          "Provided technical support to end-users and resolved IT-related issues.",
+          "General knowledge of Jira and Confluence."
+        ],
+        "period": "January 2020 – Present (4 years)",
+        "location": "Instanbul, Turkey"
+      }
+    ],
+    "skills": [
+      "Experience in system administration and IT infrastructure management",
+      "Familiarity with scripting languages like Bash and PowerShell",
+      "Strong troubleshooting and problem-solving skills",
+      "Fluent in English and Turkish",
+      "German: Beginner"
+    ]
+  }
+}

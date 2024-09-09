@@ -1,0 +1,43 @@
+{
+  "fileName": "SAP Consultant 2.pdf",
+  "raw": "K a r e e m K h a n  Personal Information  Gender Male Age 32 Nationality Pakistani Location Graz, Austria  Summary SAP Inhouse consultant with expertise in SAP MM and PP modules. Graduated with a degree in computer science. Experienced in analyzing, designing, and optimizing business processes. Strong technical background with SAP customization knowledge.  Education  Bachelor's degree in Computer Science Graz University of Technology, Austria  Experience  SAP Consultant Anyconcept Solutions GmbH  Supported and optimized SAP MM and PP modules, ensuring smooth business operations.  Implemented and rolled out projects for process optimization. March 2019 – Present (5 years) Graz, Austria  IT Support Specialist Develop Company   Provided technical support and troubleshooting for IT systems and software. January 2015 – January 2019 (4 years) Lahore, Pakistan  Languages  English Fluent German Intermediate Urdu Native",
+  "content": {
+    "name": "KareemKhan",
+    "personal": {
+      "Gender": "Male",
+      "Age": "32",
+      "Nationality": "Pakistani",
+      "Location": "Graz, Austria"
+    },
+    "education": [
+      "Bachelor's degree in Computer Science",
+      "Graz University of Technology, Austria"
+    ],
+    "experience": [
+      {
+        "position": "SAP Consultant",
+        "company": "Anyconcept Solutions GmbH",
+        "details": [
+          "Supported and optimized SAP MM and PP modules, ensuring smooth business operations.",
+          "Implemented and rolled out projects for process optimization."
+        ],
+        "period": "March 2019 – Present (5 years)",
+        "location": "Graz, Austria"
+      },
+      {
+        "position": "IT Support Specialist",
+        "company": "Develop Company",
+        "details": [
+          "Provided technical support and troubleshooting for IT systems and software."
+        ],
+        "period": "January 2015 – January 2019 (4 years)",
+        "location": "Lahore, Pakistan"
+      },
+      {
+        "position": "Languages:",
+        "company": "Urdu: Native"
+      }
+    ],
+    "skills": []
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "fileName": "Data Scientist 10.pdf",
+  "raw": "A l e x   N g u y e n  Personal Information  Gender Male Age 25 Nationality Vietnamese Location Graz, Austria  Education  Bachelor's in Computer Science Graz University of Technology  Experience  Junior Data Analyst Intern Data Insights GmbH  Assisted senior analysts in collecting and organizing data for analysis using SQL queries and  Excel spreadsheets.  Conducted basic data cleaning and preprocessing tasks under supervision.  Participated in team meetings and contributed ideas for improving data analysis processes. January 2023 – Present (1 year) Graz, Austria  Skills   Basic knowledge of Python and SQL for data analysis  Familiarity with Excel for data manipulation and visualization  Strong desire to learn and grow in the field of data science  Excellent teamwork and communication skills",
+  "content": {
+    "name": "AlexNguyen",
+    "personal": {
+      "Gender": "Male",
+      "Age": "25",
+      "Nationality": "Vietnamese",
+      "Location": "Graz, Austria"
+    },
+    "education": [
+      "Bachelor's in Computer Science",
+      "Graz University of Technology"
+    ],
+    "experience": [
+      {
+        "position": "Junior Data Analyst Intern",
+        "company": "Data Insights GmbH",
+        "details": [
+          "Assisted senior analysts in collecting and organizing data for analysis using SQL queries and",
+          "Conducted basic data cleaning and preprocessing tasks under supervision.",
+          "Participated in team meetings and contributed ideas for improving data analysis processes."
+        ],
+        "period": "Excel spreadsheets.",
+        "location": "January 2023 – Present (1 year)"
+      },
+      {
+        "position": "Graz, Austria"
+      }
+    ],
+    "skills": [
+      "Basic knowledge of Python and SQL for data analysis",
+      "Familiarity with Excel for data manipulation and visualization",
+      "Strong desire to learn and grow in the field of data science",
+      "Excellent teamwork and communication skills"
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "fileName": "IT Specialist 4.pdf",
+  "raw": "M a ria L o p e z  Personal Information  Gender Female Age 25 Nationality Spanish Location Graz, Austria  Education  Master’s degree in Computer Science Graz University of Technology, Graz  Bachelor's degree in Computer Engineering Polytechnic University of Madrid, Spain  Experience  IT Specialist Magna International  Network and system troubleshooting  Recently working on Jira Service Management and Confluence June 2023 – Present (8 months) Graz, Austria  Junior Cloud Engineer Digital Cloud Services  Designed, deployed, and managed cloud infrastructure for various clients.  Implemented automation scripts for cloud provisioning and management tasks.  Provided technical support and guidance to clients on cloud-related issues. February 2020 – January 2023 (3 years) Madrid, Spain  Skills   Strong background in cloud infrastructure management  Proficiency in scripting languages such as Python and PowerShell  Analytical thinking and problem-solving abilities  Fluent in English, Spanish and German",
+  "content": {
+    "name": "MariaLopez",
+    "personal": {
+      "Gender": "Female",
+      "Age": "25",
+      "Nationality": "Spanish",
+      "Location": "Graz, Austria"
+    },
+    "education": [
+      "Master’s degree in Computer Science",
+      "Graz University of Technology, Graz",
+      "Bachelor's degree in Computer Engineering",
+      "Polytechnic University of Madrid, Spain"
+    ],
+    "experience": [
+      {
+        "position": "IT Specialist",
+        "company": "Magna International",
+        "details": [
+          "Network and system troubleshooting",
+          "Recently working on Jira Service Management and Confluence"
+        ],
+        "period": "June 2023 – Present (8 months)",
+        "location": "Graz, Austria"
+      },
+      {
+        "position": "Junior Cloud Engineer",
+        "company": "Digital Cloud Services",
+        "details": [
+          "Designed, deployed, and managed cloud infrastructure for various clients.",
+          "Implemented automation scripts for cloud provisioning and management tasks.",
+          "Provided technical support and guidance to clients on cloud-related issues."
+        ],
+        "period": "February 2020 – January 2023 (3 years)",
+        "location": "Madrid, Spain"
+      }
+    ],
+    "skills": [
+      "Strong background in cloud infrastructure management",
+      "Proficiency in scripting languages such as Python and PowerShell",
+      "Analytical thinking and problem-solving abilities",
+      "Fluent in English, Spanish and German"
+    ]
+  }
+}

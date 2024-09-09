@@ -1,0 +1,51 @@
+{
+  "fileName": "Program Manager 3.pdf",
+  "raw": "J u l i a G r e i b e n  Personal Information  Gender Female Age 50 Nationality German Location Munich, Germany  Education  Ph.D. in Mechanical Engineering Technical University of Munich, Germany   Certified Project Management Professional (PMP)  Certified ScrumMaster (CSM)  Six Sigma Black Belt Certification  Experience  Senior Program Manager Global Automotive Solutions Inc.  Led large-scale vehicle integration programs for international automotive OEMs.  Managed multidisciplinary teams and ensured project success within budget and timeline constraints.  Implemented agile methodologies to improve project efficiency and delivery speed. January 2010 – Present (14 years) Munich, Germany  Principal Engineer Automotive Innovations GmbH, Stuttgart (10 years)  Led research and development projects focusing on advanced vehicle technologies.  Developed innovative solutions for vehicle integration challenges, leading to several patents. March 2000 – March 2009 (9 years) Stuttgart, Germany  Skills   Extensive experience in program and project management in the automotive industry  Proven track record of successful execution of complex vehicle integration projects  Strong leadership and team management skills  In-depth knowledge of agile methodologies and project management best practices  Excellent communication and stakeholder management abilities  Certified in project management, Scrum, and Six Sigma methodologies",
+  "content": {
+    "name": "JuliaGreiben",
+    "personal": {
+      "Gender": "Female",
+      "Age": "50",
+      "Nationality": "German",
+      "Location": "Munich, Germany"
+    },
+    "education": [
+      "Ph.D. in Mechanical Engineering",
+      "Technical University of Munich, Germany",
+      "• Certified Project Management Professional (PMP)",
+      "• Certified ScrumMaster (CSM)",
+      "• Six Sigma Black Belt Certification"
+    ],
+    "experience": [
+      {
+        "position": "Senior Program Manager",
+        "company": "Global Automotive Solutions Inc.",
+        "details": [
+          "Led large-scale vehicle integration programs for international automotive OEMs.",
+          "Managed multidisciplinary teams and ensured project success within budget and timeline constraints.",
+          "Implemented agile methodologies to improve project efficiency and delivery speed."
+        ],
+        "period": "January 2010 – Present (14 years)",
+        "location": "Munich, Germany"
+      },
+      {
+        "position": "Principal Engineer",
+        "company": "Automotive Innovations GmbH, Stuttgart (10 years)",
+        "details": [
+          "Led research and development projects focusing on advanced vehicle technologies.",
+          "Developed innovative solutions for vehicle integration challenges, leading to several patents."
+        ],
+        "period": "March 2000 – March 2009 (9 years)",
+        "location": "Stuttgart, Germany"
+      }
+    ],
+    "skills": [
+      "Extensive experience in program and project management in the automotive industry",
+      "Proven track record of successful execution of complex vehicle integration projects",
+      "Strong leadership and team management skills",
+      "In-depth knowledge of agile methodologies and project management best practices",
+      "Excellent communication and stakeholder management abilities",
+      "Certified in project management, Scrum, and Six Sigma methodologies"
+    ]
+  }
+}

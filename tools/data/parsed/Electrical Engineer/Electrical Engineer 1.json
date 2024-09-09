@@ -1,0 +1,45 @@
+{
+  "fileName": "Electrical Engineer 1.pdf",
+  "raw": "A l e x J a g s c h  Personal Information  Gender Male Age 35 Nationality Austrian Location Graz, Austria  Summary Experienced electrical engineer with a strong background in technical sales. Proficient in conceptualizing industrial electrical systems and automation solutions. Skilled in detailed planning and cost calculation for measurement and control technology. Excellent communication and negotiation skills.  Education  Master's degree in Electrical Engineering  Graz University of Technology, Austria  Experience  Senior Electrical Engineer Magna Engineering Solutions GmbH  Led the conceptualization and detailed planning of industrial electrical systems for various projects.  Managed quotation processing and collaborated with sales colleagues to meet customer requirements. April 2017 – Present (7 years) Graz, Austria  Technical Sales Specialist DEF Automation Ltd.  Collaborated with customers to understand their needs and propose tailored automation solutions.  Negotiated contracts and managed supplier relationships for electrical installations. January 2014 – February 2017 (3 years) Vienna, Austria  Languages  English Fluent German Native",
+  "content": {
+    "name": "AlexJagsch",
+    "personal": {
+      "Gender": "Male",
+      "Age": "35",
+      "Nationality": "Austrian",
+      "Location": "Graz, Austria"
+    },
+    "education": [
+      "Master's degree in Electrical Engineering",
+      "Graz University of Technology, Austria"
+    ],
+    "experience": [
+      {
+        "position": "Senior Electrical Engineer",
+        "company": "Magna Engineering Solutions GmbH",
+        "details": [
+          "Led the conceptualization and detailed planning of industrial electrical systems for various projects.",
+          "Managed quotation processing and collaborated with sales colleagues to meet customer",
+          "requirements."
+        ],
+        "period": "April 2017 – Present (7 years)",
+        "location": "Graz, Austria"
+      },
+      {
+        "position": "Technical Sales Specialist",
+        "company": "DEF Automation Ltd.",
+        "details": [
+          "Collaborated with customers to understand their needs and propose tailored automation solutions.",
+          "Negotiated contracts and managed supplier relationships for electrical installations."
+        ],
+        "period": "January 2014 – February 2017 (3 years)",
+        "location": "Vienna, Austria"
+      },
+      {
+        "position": "Languages:",
+        "company": "German: Native"
+      }
+    ],
+    "skills": []
+  }
+}

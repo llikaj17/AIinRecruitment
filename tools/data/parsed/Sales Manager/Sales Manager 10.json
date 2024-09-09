@@ -1,0 +1,45 @@
+{
+  "fileName": "Sales Manager 10.pdf",
+  "raw": "J e r al d   J o s e ph  Personal Information  Gender Male Age 35 Nationality Indian Location Graz, Austria  Education  Master's degree in Communication Studies University of Salzburg, Austria  Experience  Account Manager New Brand Advertising Agency  Managed client accounts and developed advertising campaigns to meet their objectives.  Collaborated with cross-functional teams to deliver projects on time and within budget. January 2020 – Present (4 years) Salzburg, Austria  Marketing Specialist Tech Up Start-up  Executed marketing strategies to promote the company's products and services.  Analyzed market trends and competitor activities to identify opportunities for growth. June 2017 – June 2019 (2 years) Mumbai, India   Skills   Strong communication and presentation skills developed through client-facing roles  Strategic thinking and problem-solving abilities  Project management skills and ability to work collaboratively in a team environment  Fluent in German and English",
+  "content": {
+    "name": "JeraldJoseph",
+    "personal": {
+      "Gender": "Male",
+      "Age": "35",
+      "Nationality": "Indian",
+      "Location": "Graz, Austria"
+    },
+    "education": [
+      "Master's degree in Communication Studies",
+      "University of Salzburg, Austria"
+    ],
+    "experience": [
+      {
+        "position": "Account Manager",
+        "company": "New Brand Advertising Agency",
+        "details": [
+          "Managed client accounts and developed advertising campaigns to meet their objectives.",
+          "Collaborated with cross-functional teams to deliver projects on time and within budget."
+        ],
+        "period": "January 2020 – Present (4 years)",
+        "location": "Salzburg, Austria"
+      },
+      {
+        "position": "Marketing Specialist",
+        "company": "Tech Up Start-up",
+        "details": [
+          "Executed marketing strategies to promote the company's products and services.",
+          "Analyzed market trends and competitor activities to identify opportunities for growth."
+        ],
+        "period": "June 2017 – June 2019 (2 years)",
+        "location": "Mumbai, India"
+      }
+    ],
+    "skills": [
+      "Strong communication and presentation skills developed through client-facing roles",
+      "Strategic thinking and problem-solving abilities",
+      "Project management skills and ability to work collaboratively in a team environment",
+      "Fluent in German and English"
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "fileName": "Service Engineer 7.pdf",
+  "raw": "S a r a   M u l l e r  Personal Information  Gender Female Age 39 Nationality Austrian Location Linz, Austria  Summary Detail-oriented service engineer with experience in analytical measuring systems. Graduated from a technical college in mechatronic engineering. Skilled in maintenance, calibration, and troubleshooting. Strong problem-solving abilities with a customer-centric approach.  Education Diploma in Mechatronic Engineering Linz Technical College  Austria  Diploma in Teaching for Lower-Secondary Education Giessen University Germany  Experience Service Technician DEF Analytical Solutions  Executed service calls and maintenance of analytical measuring systems.  Prepared service reports and protocols. January 2023 – Present (1 year) Linz, Austria  Technician GHI Tech Services (3 years)  Provided technical support for industrial automation systems.  Assisted in system installations and upgrades. January 2019 – December 2022 (3 years) Munich, Germany  Teacher Donatus Schule February 2010 – June 2018 (8 years)  Languages English Fluent German Fluent",
+  "content": {
+    "name": "SaraMuller",
+    "personal": {
+      "Gender": "Female",
+      "Age": "39",
+      "Nationality": "Austrian",
+      "Location": "Linz, Austria"
+    },
+    "education": [
+      "Diploma in Mechatronic Engineering",
+      "Linz Technical College",
+      "Austria",
+      "Diploma in Teaching for Lower-Secondary Education",
+      "Giessen University",
+      "Germany"
+    ],
+    "experience": [
+      {
+        "position": "Service Technician",
+        "company": "DEF Analytical Solutions",
+        "details": [
+          "Executed service calls and maintenance of analytical measuring systems.",
+          "Prepared service reports and protocols."
+        ],
+        "period": "January 2023 – Present (1 year)",
+        "location": "Linz, Austria"
+      },
+      {
+        "position": "Technician",
+        "company": "GHI Tech Services (3 years)",
+        "details": [
+          "Provided technical support for industrial automation systems.",
+          "Assisted in system installations and upgrades."
+        ],
+        "period": "January 2019 – December 2022 (3 years)",
+        "location": "Munich, Germany"
+      },
+      {
+        "position": "Teacher",
+        "company": "German: Fluent"
+      }
+    ],
+    "skills": []
+  }
+}

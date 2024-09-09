@@ -1,0 +1,49 @@
+{
+  "fileName": "Data Scientist 2.pdf",
+  "raw": "E m i J o h n s o n  Personal Information  Gender Female Age 34 Nationality American Location Graz, Austria  Education  Master's in Computer Science University of New York, New York  Experience  Data Scientist Prime Tech Solutions  Developed machine learning models for predictive maintenance and anomaly detection in  industrial machinery.  Collaborated with cross-functional teams to implement data-driven solutions and  optimize manufacturing processes. January 2020 – January 2024 (4 years) Vienna, Austria  Data Analyst ABC Healthcare Analytics  Analyzed healthcare data to identify trends, patterns, and insights for improving patient outcomes  and operational efficiency.  Developed predictive models for patient readmission risk and disease progression. January 2018 – January 2020 (2 years) New York, USA  Skills   Proficient in Python, R, and SQL for data analysis and machine learning  Strong background in statistical modeling and predictive analytics  Experience with data visualization tools like Tableau and Power BI  Excellent communication and collaboration skills  Fluent in English, basic skills in German",
+  "content": {
+    "name": "EmiJohnson",
+    "personal": {
+      "Gender": "Female",
+      "Age": "34",
+      "Nationality": "American",
+      "Location": "Graz, Austria"
+    },
+    "education": [
+      "Master's in Computer Science",
+      "University of New York, New York"
+    ],
+    "experience": [
+      {
+        "position": "Data Scientist",
+        "company": "Prime Tech Solutions",
+        "details": [
+          "Developed machine learning models for predictive maintenance and anomaly detection in",
+          "industrial machinery.",
+          "Collaborated with cross-functional teams to implement data-driven solutions and",
+          "optimize manufacturing processes."
+        ],
+        "period": "January 2020 – January 2024 (4 years)",
+        "location": "Vienna, Austria"
+      },
+      {
+        "position": "Data Analyst",
+        "company": "ABC Healthcare Analytics",
+        "details": [
+          "Analyzed healthcare data to identify trends, patterns, and insights for improving patient outcomes",
+          "and operational efficiency.",
+          "Developed predictive models for patient readmission risk and disease progression."
+        ],
+        "period": "January 2018 – January 2020 (2 years)",
+        "location": "New York, USA"
+      }
+    ],
+    "skills": [
+      "Proficient in Python, R, and SQL for data analysis and machine learning",
+      "Strong background in statistical modeling and predictive analytics",
+      "Experience with data visualization tools like Tableau and Power BI",
+      "Excellent communication and collaboration skills",
+      "Fluent in English, basic skills in German"
+    ]
+  }
+}

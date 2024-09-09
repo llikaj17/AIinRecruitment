@@ -1,0 +1,34 @@
+{
+  "fileName": "Service Engineer 1.pdf",
+  "raw": "A n n a K o v a c s Personal Information Gender Female Age 31 Nationality Hungarian Location Linz, Austria  Summary Detail-oriented service engineer with a focus on analytical measuring systems. Graduated from a technical college with expertise in electrical engineering. Proficient in maintenance, calibration, and troubleshooting. Strong problem-solving skills with a friendly demeanor.  Education  Diploma in Electrical Engineering, Technical College  Linz, Austria  Experience  Service Engineer XYZ Instruments GmbH  Executed service calls and maintenance of analytical measuring systems.  Prepared service reports and protocols. January 2020 – Present (4 years) Linz, Austria  Languages English Fluent German Basic",
+  "content": {
+    "name": "AnnaKovacs",
+    "personal": {
+      "Gender": "Female",
+      "Age": "31",
+      "Nationality": "Hungarian",
+      "Location": "Linz, Austria"
+    },
+    "education": [
+      "Diploma in Electrical Engineering, Technical College",
+      "Linz, Austria"
+    ],
+    "experience": [
+      {
+        "position": "Service Engineer",
+        "company": "XYZ Instruments GmbH",
+        "details": [
+          "Executed service calls and maintenance of analytical measuring systems.",
+          "Prepared service reports and protocols."
+        ],
+        "period": "January 2020 – Present (4 years)",
+        "location": "Linz, Austria"
+      },
+      {
+        "position": "Languages:",
+        "company": "German: Basic"
+      }
+    ],
+    "skills": []
+  }
+}

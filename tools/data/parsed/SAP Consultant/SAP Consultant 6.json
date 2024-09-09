@@ -1,0 +1,42 @@
+{
+  "fileName": "SAP Consultant 6.pdf",
+  "raw": "D a v i d I l g e r  Personal Information  Gender Male Age 28 Nationality Austrian Location Graz, Austria  Summary Recent computer science graduate with a keen interest in SAP systems. Strong analytical and problem-solving skills developed through coursework and internships. Eager to apply technical knowledge to support and optimize SAP modules. Fluent in English and German.  Education  Bachelor's degree in Computer Science University of Graz, Austria  Experience  Intern  Anyconcept Software Company  Assisted in software development projects, gaining exposure to database management systems. September 2022 – February 2023 (6 months) Graz, Austria  IT Support Assistant SAP Consulting Firm, Graz (Part-time, 1 year)  Provided technical support to end-users, troubleshooting hardware and software issues. September 2021 – September 2022 (Part-time, 1 year) Graz, Austria  Languages  English Fluent German Fluent",
+  "content": {
+    "name": "DavidIlger",
+    "personal": {
+      "Gender": "Male",
+      "Age": "28",
+      "Nationality": "Austrian",
+      "Location": "Graz, Austria"
+    },
+    "education": [
+      "Bachelor's degree in Computer Science",
+      "University of Graz, Austria"
+    ],
+    "experience": [
+      {
+        "position": "Intern",
+        "company": "Anyconcept Software Company",
+        "details": [
+          "Assisted in software development projects, gaining exposure to database management systems."
+        ],
+        "period": "September 2022 – February 2023 (6 months)",
+        "location": "Graz, Austria"
+      },
+      {
+        "position": "IT Support Assistant",
+        "company": "SAP Consulting Firm, Graz (Part-time, 1 year)",
+        "details": [
+          "Provided technical support to end-users, troubleshooting hardware and software issues."
+        ],
+        "period": "September 2021 – September 2022 (Part-time, 1 year)",
+        "location": "Graz, Austria"
+      },
+      {
+        "position": "Languages:",
+        "company": "German: Fluent"
+      }
+    ],
+    "skills": []
+  }
+}

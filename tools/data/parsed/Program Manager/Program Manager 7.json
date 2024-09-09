@@ -1,0 +1,63 @@
+{
+  "fileName": "Program Manager 7.pdf",
+  "raw": "Y a r y n a Ko r d u b a  Personal Information  Gender Female Age 34 Nationality Ukrainian Location Munich, Germany  Education  Master's in Engineering Management Technical University of Munich, Germany  Experience  Program Manager WHY Automotive Solutions  Led cross-functional teams in the development and launch of automotive projects, ensuring  adherence to budget, schedule, and quality standards.  Managed stakeholder communication and facilitated project meetings to drive progress and  resolve issues. January 2022 – Present (2 years) Munich, Germany  Project Manager Q2 Engineering GmbH  Oversaw the execution of engineering projects, including resource allocation, risk management,  and milestone tracking.  Collaborated with clients to define project scope, objectives, and deliverables, ensuring alignment  with business goals. January 2021 – January 2022 (1 year) Berlin, Germany  Technical Consultant DEF Technology Services  Provided technical expertise and guidance to clients on software implementation projects,  specializing in enterprise resource planning (ERP) systems.  Conducted requirements analysis, system configuration, and user training to support  successful project delivery. June 2018 – June 2020 (2 years) Frankfurt, Germany    Skills   Project and program management  Stakeholder communication and management  Risk management and mitigation  Technical consulting and problem-solving  Team leadership and motivation  Adaptability and resilience",
+  "content": {
+    "name": "YarynaKorduba",
+    "personal": {
+      "Gender": "Female",
+      "Age": "34",
+      "Nationality": "Ukrainian",
+      "Location": "Munich, Germany"
+    },
+    "education": [
+      "Master's in Engineering Management",
+      "Technical University of Munich, Germany"
+    ],
+    "experience": [
+      {
+        "position": "Program Manager",
+        "company": "WHY Automotive Solutions",
+        "details": [
+          "Led cross-functional teams in the development and launch of automotive projects, ensuring",
+          "adherence to budget, schedule, and quality standards.",
+          "Managed stakeholder communication and facilitated project meetings to drive progress and",
+          "resolve issues."
+        ],
+        "period": "January 2022 – Present (2 years)",
+        "location": "Munich, Germany"
+      },
+      {
+        "position": "Project Manager",
+        "company": "Q2 Engineering GmbH",
+        "details": [
+          "Oversaw the execution of engineering projects, including resource allocation, risk management,",
+          "and milestone tracking.",
+          "Collaborated with clients to define project scope, objectives, and deliverables, ensuring alignment",
+          "with business goals."
+        ],
+        "period": "January 2021 – January 2022 (1 year)",
+        "location": "Berlin, Germany"
+      },
+      {
+        "position": "Technical Consultant",
+        "company": "DEF Technology Services",
+        "details": [
+          "Provided technical expertise and guidance to clients on software implementation projects,",
+          "specializing in enterprise resource planning (ERP) systems.",
+          "Conducted requirements analysis, system configuration, and user training to support",
+          "successful project delivery."
+        ],
+        "period": "June 2018 – June 2020 (2 years)",
+        "location": "Frankfurt, Germany"
+      }
+    ],
+    "skills": [
+      "Project and program management",
+      "Stakeholder communication and management",
+      "Risk management and mitigation",
+      "Technical consulting and problem-solving",
+      "Team leadership and motivation",
+      "Adaptability and resilience"
+    ]
+  }
+}

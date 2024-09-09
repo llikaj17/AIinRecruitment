@@ -1,0 +1,35 @@
+{
+  "fileName": "Security Manager 5.pdf",
+  "raw": "D a v i d   S c h n e i d e r  Personal Information  Gender Male Age 28 Nationality Austrian Location Graz, Austria  Education  Bachelor's degree in Information Technology University of Applied Sciences, Graz, Austria  Experience  IT Support Technician ME IT Services  Provided technical support to end-users and resolved IT-related issues.  Assisted in the setup and maintenance of IT systems and networks. June 2021 – Present (3 years) Graz, Austria  Skills   Basic knowledge of ISO 27001 and GDPR  Strong problem-solving abilities  Quick learner and adaptable to new technologies  Excellent communication and teamwork skills",
+  "content": {
+    "name": "DavidSchneider",
+    "personal": {
+      "Gender": "Male",
+      "Age": "28",
+      "Nationality": "Austrian",
+      "Location": "Graz, Austria"
+    },
+    "education": [
+      "Bachelor's degree in Information Technology",
+      "University of Applied Sciences, Graz, Austria"
+    ],
+    "experience": [
+      {
+        "position": "IT Support Technician",
+        "company": "ME IT Services",
+        "details": [
+          "Provided technical support to end-users and resolved IT-related issues.",
+          "Assisted in the setup and maintenance of IT systems and networks."
+        ],
+        "period": "June 2021 – Present (3 years)",
+        "location": "Graz, Austria"
+      }
+    ],
+    "skills": [
+      "Basic knowledge of ISO 27001 and GDPR",
+      "Strong problem-solving abilities",
+      "Quick learner and adaptable to new technologies",
+      "Excellent communication and teamwork skills"
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "fileName": "Data Scientist 5.pdf",
+  "raw": "P e t r a   P ue b lo  Personal Information  Gender Female Age 28 Nationality Spanish Location Barcelona, Spain  Education  Master's in Statistics University of Barcelona, Spain  Experience  Data Analyst ABC Automotive Solutions  Analyzed automotive data to identify trends, patterns, and insights for business decision-making.  Developed dashboards and reports to visualize key performance indicators and track business  metrics. January 2022 – Present (2 years) Barcelona, Spain  Intern Data Science Department, Drift Tech Company  Assisted in building and deploying machine learning models for customer segmentation and  predictive analytics.  Conducted exploratory data analysis and data preprocessing tasks. January 2021 – January 2022 (1 year) Madrid, Spain  Skills   Proficiency in Python for data analysis and machine learning  Experience with statistical modeling and data visualization techniques  Strong problem-solving and analytical skills  Effective communication and collaboration in multicultural environments  Fluent in English and Spanish",
+  "content": {
+    "name": "PetraPueblo",
+    "personal": {
+      "Gender": "Female",
+      "Age": "28",
+      "Nationality": "Spanish",
+      "Location": "Barcelona, Spain"
+    },
+    "education": [
+      "Master's in Statistics",
+      "University of Barcelona, Spain"
+    ],
+    "experience": [
+      {
+        "position": "Data Analyst",
+        "company": "ABC Automotive Solutions",
+        "details": [
+          "Analyzed automotive data to identify trends, patterns, and insights for business decision-making.",
+          "Developed dashboards and reports to visualize key performance indicators and track business",
+          "metrics."
+        ],
+        "period": "January 2022 – Present (2 years)",
+        "location": "Barcelona, Spain"
+      },
+      {
+        "position": "Intern",
+        "company": "Data Science Department, Drift Tech Company",
+        "details": [
+          "Assisted in building and deploying machine learning models for customer segmentation and",
+          "predictive analytics.",
+          "Conducted exploratory data analysis and data preprocessing tasks."
+        ],
+        "period": "January 2021 – January 2022 (1 year)",
+        "location": "Madrid, Spain"
+      }
+    ],
+    "skills": [
+      "Proficiency in Python for data analysis and machine learning",
+      "Experience with statistical modeling and data visualization techniques",
+      "Strong problem-solving and analytical skills",
+      "Effective communication and collaboration in multicultural environments",
+      "Fluent in English and Spanish"
+    ]
+  }
+}
