@@ -97,7 +97,7 @@ Hopefully the pre-configured persistent database files will work on your device 
 1. Directly via the app. click the button, Reindex ChromDB. Be careful this opeartion is costly as embeddings for each resume are generated using OpenAI API.
 2. OR You can run the call to load the database using: `POST http://localhost:3000/api/v1/embeddings`. You can use Postman for e.g. to run it.
 
-**Important** Do not close any terminal that you open. In the end you need 4 terminals running one instance each: 1. Frontend, 2. Backend, 3. ChromaDB (storing vector embeddings), 4. Redis (for memory management) - this will also run in the backround so you might close it.
+**Important** Do not close any terminal that you open. In the end you need 4 terminals running one instance each: 1. Frontend, 2. Backend, 3. ChromaDB (storing vector embeddings), 4. Redis (for memory management) - this will also run in the backround so you might close it. You can run Redis and Chroma from Docker Desktop as well.
 
 ### Running the server and frontend: 
 
